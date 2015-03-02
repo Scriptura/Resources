@@ -97,6 +97,7 @@
 * [InterfaceLIFT](http://interfacelift.com/wallpaper_beta/downloads/date/any/ "un site hébergeant de très belles images")
 * [Subtlepatterns](http://subtlepatterns.com/ "Images pour background")
 * [Blender](http://www.blender.org/ "Logiciel libre pour création graphique, jeux et vidéos")
+* [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
 
 
 ##Perf' & accessibilité
