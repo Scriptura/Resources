@@ -15,18 +15,13 @@
 * [Unsemantic](http://unsemantic.com/ "Successeur de 960 Grid System")
 
 
-##HTML/XML/SVG
+##HTML
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 * [W3C Validator (HTML)](http://validator.w3.org/ "vérifie la conformité du code HTML avec la norme W3C")
 * [Balises HTML, W3C](http://dev.w3.org/html5/html-author/)
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 * [Présentation html5](http://slides.html5rocks.com/ "Présentation html5")
-* [SVG Optimiser](http://petercollingridge.appspot.com/svg_optimiser)
-* [Ikonizr]("Création d'un kit css/sass pour icônes SVG" http://iconizr.com/)
-* [Keysplines SVG](http://www.carto.net/papers/svg/samples/keysplines.svg "Paramétrage keysplines pour l'accélération d'un animateTransform en SVG")
-* [Iconizr](http://iconizr.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
-* [Grumpicon](http://www.grumpicon.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
-* [Mathjax](http://www.mathjax.org/ "solution pour affichage des formules mathématiques")
+* [Liste des codes ISO 639 pour les langues](http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1)
 
 
 ##Microdata
@@ -51,6 +46,7 @@
 * [Chart.js](http://www.chartjs.org/ "une lib pour des graphiques en javascript")
 * [Highcharts](http://www.highcharts.com/ "une lib pour des graphiques en javascript")
 * [Dhteumeuleu, tutos javascripts](http://www.dhteumeuleu.com/ "Codes bluffants en javascript")
+* [Mathjax](http://www.mathjax.org/ "solution pour affichage des formules mathématiques")
 
 
 ##CSS
@@ -80,6 +76,14 @@
 * [Mobilefish - base64](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
 * [Greywyvern - base64](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
 * [Motobit - base64](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
+
+
+##SVG
+* [SVG Optimiser](http://petercollingridge.appspot.com/svg_optimiser)
+* [Ikonizr]("Création d'un kit css/sass pour icônes SVG" http://iconizr.com/)
+* [Keysplines SVG](http://www.carto.net/papers/svg/samples/keysplines.svg "Paramétrage keysplines pour l'accélération d'un animateTransform en SVG")
+* [Iconizr](http://iconizr.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
+* [Grumpicon](http://www.grumpicon.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
 
 
 ##Images
