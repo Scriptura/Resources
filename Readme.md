@@ -30,11 +30,8 @@
 
 
 ##Microdata
-* [Microdata, outil Google de test des données strucurées](http://www.google.com/webmasters/tools/richsnippets "outil de test des données structurées")
-* [Microdata, bonnes pratiques Google](http://support.google.com/webmasters/bin/answer.py?hl=fr&answer=176035 "À propos des microdata")
-* [Microdata, codex schema.org](https://schema.org/ "codex sémantique de référence sur le format microdata, le plus hexaustif")
-* [Microdata, codex W3C](http://dev.w3.org/html5/md/ "codex sémantique sur le format microdata")
-* [Schema Creator](http://schema-creator.org/ "outil de création de données structurées")
+* [Schema.org](https://schema.org/ "site de référence sur les données structurées")
+* [Microdata Testing Tool](http://www.google.com/webmasters/tools/richsnippets "outil de test Google pour les données strucurées")
 
 
 ##Javascript
