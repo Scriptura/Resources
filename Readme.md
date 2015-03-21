@@ -49,6 +49,11 @@
 * [Mathjax](http://www.mathjax.org/ "solution pour affichage des formules mathématiques")
 
 
+##Maps
+* [Google Maps API](https://developers.google.com/maps/)
+* [OpenStreetMap](http://www.openstreetmap.org)
+* [uMap](http://umap.openstreetmap.fr/ "uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap")
+
 ##CSS
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
 * [Can I use...](http://caniuse.com/)
