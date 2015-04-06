@@ -13,6 +13,7 @@
 * [Less Framework 4](http://lessframework.com/ "Système de grille CSS pour la conception de sites web adaptatifs")
 * [960 Grid System](http://960.gs/)
 * [Unsemantic](http://unsemantic.com/ "Successeur de 960 Grid System")
+* [Primer](http://primercss.io/ "Le framework de GitHub")
 
 
 ##HTML
@@ -22,6 +23,9 @@
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 * [Présentation html5](http://slides.html5rocks.com/ "Présentation html5")
 * [Liste des codes ISO 639 pour les langues](http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1)
+* [Jade](http://jade-lang.com/ "Syntaxe de template")
+* [HTML to Jade converter](http://html2jade.aaron-powell.com/)
+* [Jade converter](http://html2jade.org/)
 
 
 ##Microdata
