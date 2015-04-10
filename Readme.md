@@ -1,10 +1,12 @@
-## PHP/MySQL
+#Resources for web development
+
+## PHP & MySQL
 * [Download MySQL Community Server](http://dev.mysql.com/downloads/mysql/ "Télécharger MySQL")
 * [Manuel PHP](http://fr.php.net/manual/fr/index.php)
 * [Codex Wordpress](http://codex.wordpress.org/)
 
 
-##CMS & Frameworks
+##Frameworks & CMS
 * [Symfony](http://symfony.com/)
 * [Drupal](http://drupalfr.org/)
 * [WordPress](https://fr.wordpress.org/)
@@ -49,7 +51,7 @@
 * [Raphaël js](http://raphaeljs.com/ "bibliothèque javaScript VML pour le support IE8 du SVG")
 * [Chart.js](http://www.chartjs.org/ "une lib pour des graphiques en javascript")
 * [Highcharts](http://www.highcharts.com/ "une lib pour des graphiques en javascript")
-* [Dhteumeuleu, tutos javascripts](http://www.dhteumeuleu.com/ "Codes bluffants en javascript")
+* [Dhteumeuleu](http://www.dhteumeuleu.com/ "Codes bluffants en javascript")
 * [Mathjax](http://www.mathjax.org/ "solution pour affichage des formules mathématiques")
 
 
@@ -76,15 +78,15 @@
 * [CSS Triangle Generator](http://triangle.designyourcode.io/ "Générateur de triangles en css")
 
 
-##Polices de caractères
-* [Google web font] (http://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
+##Fonts
+* [Google web font](http://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
 * [FontSquirrel](http://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
 
 
 ##Base64
-* [Mobilefish - base64](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
-* [Greywyvern - base64](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
-* [Motobit - base64](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
+* [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
+* [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
+* [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
 
 
 ##SVG
@@ -110,27 +112,23 @@
 * [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
 
 
-##Perf' & accessibilité
+##Monitoring Tools
+* [Google Webmaster Tools](https://www.google.com/webmasters/tools/)
+* [Google Analytics](http://www.google.com/intl/fr/analytics/)
 * [Wave](http://wave.webaim.org/ "outil permettant d'évaluer l'accessibilité d'un site web")
-* ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/ "évalue la vitesse de génération d'une page et propose des solutions d'optimisation")
-* [Dareboost](http://www.dareboost.com/ "Idem que précédement")
-* [Gtmetrix](http://gtmetrix.com/ "Idem que précédement")
-* [WebPageTest](http://www.webpagetest.org/ "Idem que précédement")
+* ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
+* [Dareboost](http://www.dareboost.com/)
+* [Gtmetrix](http://gtmetrix.com/)
+* [WebPageTest](http://www.webpagetest.org/)
 * [Woorank](http://www.woorank.com/ "Outil d'analyse de site web pour le SEO")
 * [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
 * [Internet Explorer Test Drive](http://ie.microsoft.com/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
 
 
-##Veille techno & tutoriels
+##Technology watch and tutorials
 * [CSS-Tricks](http://css-tricks.com/)
 * [Alsacreations](http://www.alsacreations.com/)
 * [24 Ways](http://24ways.org/)
 * [The Sass Way](http://thesassway.com/)
 * [Grafikart](http://www.grafikart.fr/)
 * [Pompage](http://www.pompage.net/)
-
-
-##Trafic
-* [Google Analytics](http://www.google.com/intl/fr/analytics/)
-* [Outils pour les webmasters](https://www.google.com/webmasters/tools/)
-* [Alexa](http://www.alexa.com/)
