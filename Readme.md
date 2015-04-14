@@ -125,10 +125,11 @@
 * [Internet Explorer Test Drive](http://ie.microsoft.com/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
 
 
-##Technology watch and tutorials
+##Blogs
 * [CSS-Tricks](http://css-tricks.com/)
 * [Alsacreations](http://www.alsacreations.com/)
 * [24 Ways](http://24ways.org/)
 * [The Sass Way](http://thesassway.com/)
 * [Grafikart](http://www.grafikart.fr/)
 * [Pompage](http://www.pompage.net/)
+* [John Resig](http://ejohn.org/ "Le blog du fondateur de jQuery")
