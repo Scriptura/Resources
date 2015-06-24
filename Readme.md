@@ -52,7 +52,7 @@
 * [Raphaël js](http://raphaeljs.com/ "bibliothèque javaScript VML pour le support IE8 du SVG")
 * [Chart.js](http://www.chartjs.org/ "une lib pour des graphiques en javascript")
 * [Highcharts](http://www.highcharts.com/ "une lib pour des graphiques en javascript")
-* [Dhteumeuleu](http://www.dhteumeuleu.com/ "Codes bluffants en javascript")
+* [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
 * [Mathjax](http://www.mathjax.org/ "solution pour affichage des formules mathématiques")
 
 
@@ -117,13 +117,13 @@
 * [Google Webmaster Tools](https://www.google.com/webmasters/tools/)
 * [Google Analytics](http://www.google.com/intl/fr/analytics/)
 * [Wave](http://wave.webaim.org/ "outil permettant d'évaluer l'accessibilité d'un site web")
-* ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
+* [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
 * [Dareboost](http://www.dareboost.com/)
 * [Gtmetrix](http://gtmetrix.com/)
 * [WebPageTest](http://www.webpagetest.org/)
 * [Woorank](http://www.woorank.com/ "Outil d'analyse de site web pour le SEO")
 * [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
-* [Internet Explorer Test Drive](http://ie.microsoft.com/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
+* [Internet Explorer Test Drive](http://dev.modern.ie/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
 
 
 ##Blogs
