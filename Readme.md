@@ -77,6 +77,7 @@
 * [CSS3 pour text-shadows](http://www.westciv.com/tools/shadows/ "Générateur css3 pour text-shadows")
 * [Normalize css](http://necolas.github.io/normalize.css/ "Feuille de style de base permettant un affichage normalisé pour un maximum de navigateurs" )
 * [CSS Triangle Generator](http://triangle.designyourcode.io/ "Générateur de triangles en css")
+* [NetRenderer](http://netrenderer.com/ "Captures d'écran pour tester Internet Explorer en ligne")
 
 
 ##Fonts
