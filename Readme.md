@@ -28,10 +28,7 @@
 * [Jade](http://jade-lang.com/ "Syntaxe de template")
 * [HTML to Jade converter](http://html2jade.aaron-powell.com/)
 * [Jade converter](http://html2jade.org/)
-
-
-##Microdata
-* [Schema.org](https://schema.org/ "site de référence sur les données structurées")
+* [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
 * [Microdata Testing Tool](http://www.google.com/webmasters/tools/richsnippets "outil de test Google pour les données strucurées")
 
 
@@ -65,7 +62,8 @@
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
 * [Can I use...](http://caniuse.com/)
 * [W3C validation CSS](http://jigsaw.w3.org/css-validator/)
-* [Codepen](http://codepen.io/)
+* [JSFiddle](https://jsfiddle.net/ "Test en ligne pour html/css/js")
+* [Codepen](http://codepen.io/ "Test en ligne pour html/css/js")
 * [CSS3, Please!](http://css3please.com/ "Générateur de règles CSS3 donnant des informations sur le support par les navigateurs")
 * [Clean CSS](http://www.cleancss.com/?lang=fr "Nettoie les feuilles de styles en ligne")
 * [Spritebox](http://www.spritebox.net/"Générateur de sprites css")
@@ -125,9 +123,11 @@
 * [Woorank](http://www.woorank.com/ "Outil d'analyse de site web pour le SEO")
 * [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
 * [Internet Explorer Test Drive](http://dev.modern.ie/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
+* [Chrome Experiments](http://www.chromeexperiments.com/ "Laboratoire dédié à Chrome")
 
 
-##Blogs
+##Sites & Blogs
+* [Stack Overflow](http://stackoverflow.com/)
 * [CSS-Tricks](http://css-tricks.com/)
 * [Alsacreations](http://www.alsacreations.com/)
 * [24 Ways](http://24ways.org/)
@@ -135,3 +135,8 @@
 * [Grafikart](http://www.grafikart.fr/)
 * [Pompage](http://www.pompage.net/)
 * [John Resig](http://ejohn.org/ "Le blog du fondateur de jQuery")
+* [Hugo Giraudel](http://hugogiraudel.com/)
+* [Gerard Ferrandez sur CodePen](http://codepen.io/ge1doot/ "Le CodePen d'un surdoué du JavaScript")
+* [Ana Tudor sur CodePen](http://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
+* [Hugo Giraudel sur CodePen](http://codepen.io/HugoGiraudel/)
+
