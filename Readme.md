@@ -42,7 +42,7 @@
 * [jQuery, tutos Jquerylist](http://jquerylist.com/ "tutos jQuery")
 * [jQuery, tutos Jquerystyle](http://jquerystyle.com/ "tutos jQuery")
 * [RegExr](http://www.regexr.com/ "Outil en ligne pour tester les expressions régulières en javascript")
-* [Regex101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières en javascript")
+* [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières en javascript")
 * [HiFi Regex Tester](http://www.gethifi.com/tools/regex "Outil en ligne pour tester les expressions régulières en javascript")
 * [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
 * [Closure Compiler](http://closure-compiler.appspot.com/home "réduit la taille des fichiers JavaScript, ce n'est donc pas un compilateur, contrairement à ce que le nom laisserait penser")
