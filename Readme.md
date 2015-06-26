@@ -109,7 +109,6 @@
 * [Colrd.com](http://colrd.com/ "Choix d'images en mosaïque")
 * [InterfaceLIFT](http://interfacelift.com/wallpaper_beta/downloads/date/any/ "un site hébergeant de très belles images")
 * [Subtlepatterns](http://subtlepatterns.com/ "Images pour background")
-* [Blender](http://www.blender.org/ "Logiciel libre pour création graphique, jeux et vidéos")
 * [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
 
 
@@ -140,4 +139,11 @@
 * [Gerard Ferrandez sur CodePen](http://codepen.io/ge1doot/ "Le CodePen d'un surdoué du JavaScript")
 * [Ana Tudor sur CodePen](http://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Hugo Giraudel sur CodePen](http://codepen.io/HugoGiraudel/)
+
+
+##Softwares
+* [Blender](http://www.blender.org/ "Logiciel libre pour création graphique, jeux et vidéos")
+* [Atom](http://atom.io/)
+* [Brackets](http://brackets.io/)
+* [Sublime Text 3](http://www.sublimetext.com/3)
 
