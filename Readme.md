@@ -1,5 +1,8 @@
 #Resources for web development
 
+## General
+* [Web Developer Checklist](http://webdevchecklist.com/ "Checklist de contrôle du développeur")
+
 ## PHP & MySQL
 * [Download MySQL Community Server](http://dev.mysql.com/downloads/mysql/ "Télécharger MySQL")
 * [Manuel PHP](http://fr.php.net/manual/fr/index.php)
