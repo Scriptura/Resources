@@ -68,6 +68,7 @@
 * [W3C validation CSS](http://jigsaw.w3.org/css-validator/)
 * [JSFiddle](https://jsfiddle.net/ "Test en ligne pour html/css/js")
 * [Codepen](http://codepen.io/ "Test en ligne pour html/css/js")
+* [JS Bin](http://jsbin.com/ "Test en ligne pour html/css/js")
 * [CSS3, Please!](http://css3please.com/ "Générateur de règles CSS3 donnant des informations sur le support par les navigateurs")
 * [Clean CSS](http://www.cleancss.com/?lang=fr "Nettoie les feuilles de styles en ligne")
 * [Spritebox](http://www.spritebox.net/"Générateur de sprites css")
