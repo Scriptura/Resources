@@ -25,6 +25,9 @@
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 * [W3C Validator (HTML)](http://validator.w3.org/ "vérifie la conformité du code HTML avec la norme W3C")
 * [Balises HTML, W3C](http://dev.w3.org/html5/html-author/)
+
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "memento pour Markdown")
+
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 * [Liste des codes ISO 639 pour les langues](http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1)
 * [Jade](http://jade-lang.com/ "Syntaxe de template")
@@ -37,6 +40,7 @@
 ##Javascript
 * [Gulp](http://gulpjs.com/ "Task runner")
 * [Grunt](http://gruntjs.com/ "Task runner")
+* [npm, Install a package](https://docs.npmjs.com/cli/install)
 * [jQuery UI](http://jqueryui.com/demos/)
 * [jQuery.com, tutos plugins](http://plugins.jquery.com/ "tutos jQuery")
 * [jQuery, tutos Pupunzi](http://pupunzi.com/ "tutos jQuery")
@@ -81,11 +85,10 @@
 * [Normalize css](http://necolas.github.io/normalize.css/ "Feuille de style de base permettant un affichage normalisé pour un maximum de navigateurs" )
 * [CSS Triangle Generator](http://triangle.designyourcode.io/ "Générateur de triangles en css")
 * [IE NetRenderer](http://netrenderer.com/ "Captures d'écran pour tester Internet Explorer en ligne")
-* [Sass to Stylus](http://sass2stylus.com/ "Convertisseur online de code Sass en Stylus")
 
 
 ##Fonts
-* [Google web font](http://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
+* [Google web font](https://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
 * [FontSquirrel](http://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
 
 
