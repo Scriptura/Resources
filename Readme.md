@@ -130,6 +130,7 @@
 * [Gtmetrix](http://gtmetrix.com/)
 * [WebPageTest](http://www.webpagetest.org/)
 * [Woorank](http://www.woorank.com/ "Outil d'analyse de site web pour le SEO")
+* [CloudConvert](https://cloudconvert.com/ "Outil de conversion de fichiers d'un format à un autre")
 * [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
 * [Internet Explorer Test Drive](http://dev.modern.ie/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
 * [Chrome Experiments](http://www.chromeexperiments.com/ "Laboratoire dédié à Chrome")
