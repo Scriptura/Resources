@@ -1,4 +1,4 @@
-#Resources for web development
+# Resources for web development
 
 ## General
 * [Web Developer Checklist](http://webdevchecklist.com/ "Checklist de contrôle du développeur")
@@ -9,7 +9,7 @@
 * [Codex Wordpress](http://codex.wordpress.org/)
 
 
-##Frameworks & CMS
+## Frameworks & CMS
 * [Symfony](http://symfony.com/)
 * [Drupal](http://drupalfr.org/)
 * [WordPress](https://fr.wordpress.org/)
@@ -21,7 +21,7 @@
 * [Primer](http://primercss.io/ "Le framework de GitHub")
 
 
-##HTML
+## HTML
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 * [W3C Validator (HTML)](http://validator.w3.org/ "vérifie la conformité du code HTML avec la norme W3C")
 * [Balises HTML, W3C](http://dev.w3.org/html5/html-author/)
@@ -37,7 +37,7 @@
 * [Microdata Testing Tool](http://www.google.com/webmasters/tools/richsnippets "outil de test Google pour les données strucurées")
 
 
-##Javascript
+## Javascript
 * [Node.js](https://nodejs.org)
 * [npm, Install a package](https://docs.npmjs.com/cli/install)
 * [Gulp](http://gulpjs.com/ "Task runner")
@@ -62,12 +62,12 @@
 * [Moment.js](http://momentjs.com/ "analyser, valider, manipuler et afficher les dates en JavaScript")
 
 
-##Maps
+## Maps
 * [Google Maps API](https://developers.google.com/maps/)
 * [OpenStreetMap](http://www.openstreetmap.org)
 * [uMap](http://umap.openstreetmap.fr/ "uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap")
 
-##CSS
+## CSS
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
 * [Can I use...](http://caniuse.com/)
 * [W3C validation CSS](http://jigsaw.w3.org/css-validator/)
@@ -88,18 +88,18 @@
 * [IE NetRenderer](http://netrenderer.com/ "Captures d'écran pour tester Internet Explorer en ligne")
 
 
-##Fonts
+## Fonts
 * [Google web font](https://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
 * [FontSquirrel](http://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
 
 
-##Base64
+## Base64
 * [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
 * [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
 
 
-##SVG
+## SVG
 * [SVG Optimiser](http://petercollingridge.appspot.com/svg_optimiser)
 * [Ikonizr](http://iconizr.com/ "Création d'un kit css/sass pour icônes SVG")
 * [Keysplines SVG](http://www.carto.net/papers/svg/samples/keysplines.svg "Paramétrage keysplines pour l'accélération d'un animateTransform en SVG")
@@ -107,7 +107,7 @@
 * [Grumpicon](http://www.grumpicon.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
 
 
-##Images
+## Images
 * [Smush.it](http://www.smushit.com/ysmush.it/ "Outil de suppression des metadonnées d'une image, ces informations étant la cause d'interprétations différentielles entre navigateurs et d'un poids non négligeable")
 * [JPEGmini](http://www.jpegmini.com/ "un outils en ligne de compression d'images, très efficace pour visaliser le rendu en temps réel")
 * [Creative Commons - licence](http://creativecommons.org/choose/?lang=fr "Creative Commons, attribution d'une licence")
@@ -121,7 +121,7 @@
 * [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
 
 
-##Monitoring Tools
+## Monitoring Tools
 * [Google Webmaster Tools](https://www.google.com/webmasters/tools/)
 * [Google Analytics](http://www.google.com/intl/fr/analytics/)
 * [Wave](http://wave.webaim.org/ "outil permettant d'évaluer l'accessibilité d'un site web")
@@ -136,7 +136,7 @@
 * [Chrome Experiments](http://www.chromeexperiments.com/ "Laboratoire dédié à Chrome")
 
 
-##Sites & Blogs
+## Sites & Blogs
 * [Stack Overflow](http://stackoverflow.com/)
 * [CSS-Tricks](http://css-tricks.com/)
 * [Alsacreations](http://www.alsacreations.com/)
@@ -151,9 +151,18 @@
 * [Hugo Giraudel sur CodePen](http://codepen.io/HugoGiraudel/)
 
 
-##Softwares
+## Softwares
 * [Blender](http://www.blender.org/ "Logiciel libre pour création graphique, jeux et vidéos")
 * [Atom](http://atom.io/)
 * [Brackets](http://brackets.io/)
 * [Sublime Text 3](http://www.sublimetext.com/3)
+
+
+## Concepts and trends
+* [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
+* [Design Google](https://design.google.com/ "Site d'une équipe de designer de Google présentant les tendances du groupe")
+* [Data motion](http://www.data-motion.com/ "Le design émotionnel")
+
+
+
 
