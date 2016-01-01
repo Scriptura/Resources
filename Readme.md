@@ -60,12 +60,11 @@
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
 * [Mathjax](http://www.mathjax.org/ "solution pour affichage des formules mathématiques")
 * [Moment.js](http://momentjs.com/ "analyser, valider, manipuler et afficher les dates en JavaScript")
-
-
-## Maps
+* [JS2coffee](http://js2.coffee/ "Convertisseur JavaScript vers CoffeeScript")
 * [Google Maps API](https://developers.google.com/maps/)
 * [OpenStreetMap](http://www.openstreetmap.org)
 * [uMap](http://umap.openstreetmap.fr/ "uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap")
+
 
 ## CSS
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
