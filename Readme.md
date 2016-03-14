@@ -7,6 +7,7 @@
 * [Download MySQL Community Server](http://dev.mysql.com/downloads/mysql/ "Télécharger MySQL")
 * [Manuel PHP](http://fr.php.net/manual/fr/index.php)
 * [Codex Wordpress](http://codex.wordpress.org/)
+* [PHP: Fonctionnement des expressions rationnelles](http://php.net/manual/fr/reference.pcre.pattern.syntax.php)
 
 
 ## Frameworks & CMS
@@ -25,9 +26,7 @@
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 * [W3C Validator (HTML)](http://validator.w3.org/ "vérifie la conformité du code HTML avec la norme W3C")
 * [Balises HTML, W3C](http://dev.w3.org/html5/html-author/)
-
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "memento pour Markdown")
-
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 * [Liste des codes ISO 639 pour les langues](http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1)
 * [Jade](http://jade-lang.com/ "Syntaxe de template")
@@ -162,6 +161,7 @@
 * [Design Google](https://design.google.com/ "Site d'une équipe de designer de Google présentant les tendances du groupe")
 * [Data motion](http://www.data-motion.com/ "Le design émotionnel")
 
-
+## Other
+* [Adresse Email Temporaire](http://www.adresseemailtemporaire.com/)
 
 
