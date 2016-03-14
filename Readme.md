@@ -1,14 +1,10 @@
 # Resources for web development
 
-## General
-* [Web Developer Checklist](http://webdevchecklist.com/ "Checklist de contrôle du développeur")
-
 ## PHP & MySQL
 * [Download MySQL Community Server](http://dev.mysql.com/downloads/mysql/ "Télécharger MySQL")
 * [Manuel PHP](http://fr.php.net/manual/fr/index.php)
 * [Codex Wordpress](http://codex.wordpress.org/)
 * [PHP: Fonctionnement des expressions rationnelles](http://php.net/manual/fr/reference.pcre.pattern.syntax.php)
-
 
 ## Frameworks & CMS
 * [Symfony](http://symfony.com/)
@@ -20,7 +16,6 @@
 * [960 Grid System](http://960.gs/)
 * [Unsemantic](http://unsemantic.com/ "Successeur de 960 Grid System")
 * [Primer](http://primercss.io/ "Le framework de GitHub")
-
 
 ## HTML
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
@@ -34,7 +29,6 @@
 * [Jade converter](http://html2jade.org/)
 * [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
 * [Microdata Testing Tool](http://www.google.com/webmasters/tools/richsnippets "outil de test Google pour les données strucurées")
-
 
 ## Javascript
 * [Node.js](https://nodejs.org)
@@ -64,7 +58,6 @@
 * [OpenStreetMap](http://www.openstreetmap.org)
 * [uMap](http://umap.openstreetmap.fr/ "uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap")
 
-
 ## CSS
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
 * [Can I use...](http://caniuse.com/)
@@ -85,17 +78,14 @@
 * [CSS Triangle Generator](http://triangle.designyourcode.io/ "Générateur de triangles en css")
 * [IE NetRenderer](http://netrenderer.com/ "Captures d'écran pour tester Internet Explorer en ligne")
 
-
 ## Fonts
 * [Google web font](https://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
 * [FontSquirrel](http://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
-
 
 ## Base64
 * [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
 * [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
-
 
 ## SVG
 * [SVG Optimiser](http://petercollingridge.appspot.com/svg_optimiser)
@@ -103,7 +93,6 @@
 * [Keysplines SVG](http://www.carto.net/papers/svg/samples/keysplines.svg "Paramétrage keysplines pour l'accélération d'un animateTransform en SVG")
 * [Iconizr](http://iconizr.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
 * [Grumpicon](http://www.grumpicon.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
-
 
 ## Images
 * [Smush.it](http://www.smushit.com/ysmush.it/ "Outil de suppression des metadonnées d'une image, ces informations étant la cause d'interprétations différentielles entre navigateurs et d'un poids non négligeable")
@@ -117,7 +106,6 @@
 * [InterfaceLIFT](http://interfacelift.com/wallpaper_beta/downloads/date/any/ "un site hébergeant de très belles images")
 * [Subtlepatterns](http://subtlepatterns.com/ "Images pour background")
 * [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
-
 
 ## Monitoring Tools
 * [Google Webmaster Tools](https://www.google.com/webmasters/tools/)
@@ -133,7 +121,6 @@
 * [Internet Explorer Test Drive](http://dev.modern.ie/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
 * [Chrome Experiments](http://www.chromeexperiments.com/ "Laboratoire dédié à Chrome")
 
-
 ## Sites & Blogs
 * [Stack Overflow](http://stackoverflow.com/)
 * [CSS-Tricks](http://css-tricks.com/)
@@ -148,13 +135,11 @@
 * [Ana Tudor sur CodePen](http://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Hugo Giraudel sur CodePen](http://codepen.io/HugoGiraudel/)
 
-
 ## Softwares
 * [Blender](http://www.blender.org/ "Logiciel libre pour création graphique, jeux et vidéos")
 * [Atom](http://atom.io/)
 * [Brackets](http://brackets.io/)
 * [Sublime Text 3](http://www.sublimetext.com/3)
-
 
 ## Concepts and trends
 * [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
@@ -162,6 +147,6 @@
 * [Data motion](http://www.data-motion.com/ "Le design émotionnel")
 
 ## Other
+* [Web Developer Checklist](http://webdevchecklist.com/ "Checklist de contrôle du développeur")
 * [Adresse Email Temporaire](http://www.adresseemailtemporaire.com/)
-
 
