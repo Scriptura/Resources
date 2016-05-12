@@ -103,9 +103,13 @@
 * [Iconmonstr](http://iconmonstr.com/ "Icônes en SVG")
 * [Flaticon](http://www.flaticon.com/ "Icônes en SVG")
 * [Colrd.com](http://colrd.com/ "Choix d'images en mosaïque")
-* [InterfaceLIFT](http://interfacelift.com/wallpaper_beta/downloads/date/any/ "un site hébergeant de très belles images")
+* [InterfaceLIFT](http://interfacelift.com/wallpaper_beta/downloads/date/any/ "Un site hébergeant de très belles images")
+* [Miriadna](http://miriadna.com/ "Un site hébergeant de très belles images")
 * [Subtlepatterns](http://subtlepatterns.com/ "Images pour background")
 * [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
+
+## Videos
+* [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
 
 ## Monitoring Tools
 * [Google Webmaster Tools](https://www.google.com/webmasters/tools/)
