@@ -21,6 +21,7 @@
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 * [W3C Validator (HTML)](http://validator.w3.org/ "vérifie la conformité du code HTML avec la norme W3C")
 * [Balises HTML, W3C](http://dev.w3.org/html5/html-author/)
+* [Html5Please](http://html5please.com/ "Vérifie la compatibilité des fonctionnalités html5 selon chaque navigateur")
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "memento pour Markdown")
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 * [Liste des codes ISO 639 pour les langues](http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1)
