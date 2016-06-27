@@ -48,9 +48,9 @@
 * [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
 * [Closure Compiler](http://closure-compiler.appspot.com/home "réduit la taille des fichiers JavaScript, ce n'est donc pas un compilateur, contrairement à ce que le nom laisserait penser")
 * [Javascript Compressor](http://javascriptcompressor.com/ "compile votre code javascript")
-* [Raphaël js](http://raphaeljs.com/ "bibliothèque javaScript VML pour le support IE8 du SVG")
-* [Chart.js](http://www.chartjs.org/ "une lib pour des graphiques en javascript")
-* [Highcharts](http://www.highcharts.com/ "une lib pour des graphiques en javascript")
+* [Comparison of JavaScript charting frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_frameworks "Comparaison des bibliothèques pour graphiques 2D")
+* [Chartist](http://gionkunz.github.io/chartist-js/ "une lib pour des graphiques simples en SVG")
+* [Chart.js](http://www.chartjs.org/ "une lib pour des graphiques via html5 canevas")
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
 * [Mathjax](http://www.mathjax.org/ "solution pour affichage des formules mathématiques")
 * [Moment.js](http://momentjs.com/ "analyser, valider, manipuler et afficher les dates en JavaScript")
@@ -139,6 +139,7 @@
 * [Gerard Ferrandez sur CodePen](http://codepen.io/ge1doot/ "Le CodePen d'un surdoué du JavaScript")
 * [Ana Tudor sur CodePen](http://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Hugo Giraudel sur CodePen](http://codepen.io/HugoGiraudel/)
+* [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
 
 ## Softwares
 * [Blender](http://www.blender.org/ "Logiciel libre pour création graphique, jeux et vidéos")
