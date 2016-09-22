@@ -1,5 +1,8 @@
 # Resources for web development
 
+## Security servers
+* [Qualys SSL Labs](https://www.ssllabs.com/index.html)
+
 ## PHP & MySQL
 * [Download MySQL Community Server](http://dev.mysql.com/downloads/mysql/ "Télécharger MySQL")
 * [Manuel PHP](http://fr.php.net/manual/fr/index.php)
@@ -7,13 +10,12 @@
 * [PHP: Fonctionnement des expressions rationnelles](http://php.net/manual/fr/reference.pcre.pattern.syntax.php)
 
 ## Frameworks & CMS
-* [Symfony](http://symfony.com/)
+* [Symfony](https://symfony.com/)
 * [Drupal](http://drupalfr.org/)
 * [WordPress](https://fr.wordpress.org/)
-* [Bootstrap](http://getbootstrap.com/)
-* [Html5 Boilerplate](http://html5boilerplate.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Html5 Boilerplate](https://html5boilerplate.com/)
 * [Less Framework 4](http://lessframework.com/ "Système de grille CSS pour la conception de sites web adaptatifs")
-* [960 Grid System](http://960.gs/)
 * [Unsemantic](http://unsemantic.com/ "Successeur de 960 Grid System")
 * [Primer](http://primercss.io/ "Le framework de GitHub")
 
