@@ -127,6 +127,7 @@
 * [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
 * [Internet Explorer Test Drive](http://dev.modern.ie/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
 * [Chrome Experiments](http://www.chromeexperiments.com/ "Laboratoire dédié à Chrome")
+* [Chrome Platform Status](https://www.chromestatus.com "Notification des avancées dans le développement de Chrome")
 
 ## Sites & Blogs
 * [Stack Overflow](http://stackoverflow.com/)
