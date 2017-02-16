@@ -156,6 +156,7 @@
 * [Data motion](http://www.data-motion.com/ "Le design émotionnel")
 
 ## Other
+* [Telegra.ph](http://telegra.ph)
 * [Web Developer Checklist](http://webdevchecklist.com/ "Checklist de contrôle du développeur")
 * [Adresse Email Temporaire](http://www.adresseemailtemporaire.com/)
 
