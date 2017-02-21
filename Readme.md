@@ -130,6 +130,7 @@
 * [Chrome Platform Status](https://www.chromestatus.com "Notification des avancées dans le développement de Chrome")
 
 ## Sites & Blogs
+* [js-attitude](http://www.js-attitude.fr/ "Blog de Christophe Porteneuve sur ECMAScript")
 * [Stack Overflow](http://stackoverflow.com/)
 * [CSS-Tricks](http://css-tricks.com/)
 * [Alsacreations](http://www.alsacreations.com/)
@@ -139,7 +140,7 @@
 * [Pompage](http://www.pompage.net/)
 * [John Resig](http://ejohn.org/ "Le blog du fondateur de jQuery")
 * [Hugo Giraudel](http://hugogiraudel.com/)
-* [Gerard Ferrandez sur CodePen](http://codepen.io/ge1doot/ "Le CodePen d'un surdoué du JavaScript")
+* [Gerard Ferrandez sur CodePen](http://codepen.io/ge1doot/ "Le CodePen d'un pour du JavaScript en front")
 * [Ana Tudor sur CodePen](http://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Hugo Giraudel sur CodePen](http://codepen.io/HugoGiraudel/)
 * [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
