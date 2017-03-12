@@ -3,8 +3,13 @@
 ## Security servers
 * [Qualys SSL Labs](https://www.ssllabs.com/index.html)
 
-## PHP & MySQL
+## MySQL
 * [Download MySQL Community Server](http://dev.mysql.com/downloads/mysql/ "Télécharger MySQL")
+
+## Node.js
+* [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
+
+## PHP
 * [Manuel PHP](http://fr.php.net/manual/fr/index.php)
 * [Codex Wordpress](http://codex.wordpress.org/)
 * [PHP: Fonctionnement des expressions rationnelles](http://php.net/manual/fr/reference.pcre.pattern.syntax.php)
@@ -35,30 +40,26 @@
 
 ## Javascript
 * [Node.js](https://nodejs.org)
-* [npm, Install a package](https://docs.npmjs.com/cli/install)
+* [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
+* [yarn](https://yarnpkg.com/fr/ "Alternative sécurisé de npm, développé par Facebook")
 * [Gulp](http://gulpjs.com/ "Task runner")
 * [Grunt](http://gruntjs.com/ "Task runner")
 * [jQuery UI](http://jqueryui.com/demos/)
-* [jQuery.com, tutos plugins](http://plugins.jquery.com/ "tutos jQuery")
-* [jQuery, tutos Pupunzi](http://pupunzi.com/ "tutos jQuery")
-* [jQuery, tutos Mmalsup](http://jquery.malsup.com/ "tutos jQuery")
-* [jQuery, tutos Jquerylist](http://jquerylist.com/ "tutos jQuery")
-* [jQuery, tutos Jquerystyle](http://jquerystyle.com/ "tutos jQuery")
+* [Cycle 2](http://jquery.malsup.com/cycle2/ "Slide avec jQuery")
 * [RegExr](http://www.regexr.com/ "Outil en ligne pour tester les expressions régulières en javascript")
 * [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières en javascript")
 * [HiFi Regex Tester](http://www.gethifi.com/tools/regex "Outil en ligne pour tester les expressions régulières en javascript")
 * [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
-* [Closure Compiler](http://closure-compiler.appspot.com/home "réduit la taille des fichiers JavaScript, ce n'est donc pas un compilateur, contrairement à ce que le nom laisserait penser")
-* [Javascript Compressor](http://javascriptcompressor.com/ "compile votre code javascript")
+* [Closure Compiler](http://closure-compiler.appspot.com/home "Outil en ligne permettant de réduire la taille des fichiers JavaScript")
 * [Comparison of JavaScript charting frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_frameworks "Comparaison des bibliothèques pour graphiques 2D")
-* [Chartist](http://gionkunz.github.io/chartist-js/ "une lib pour des graphiques simples en SVG")
-* [Chart.js](http://www.chartjs.org/ "une lib pour des graphiques via html5 canevas")
+* [Chartist](http://gionkunz.github.io/chartist-js/ "Lib pour des graphiques simples en SVG")
+* [Chart.js](http://www.chartjs.org/ "Lib pour des graphiques via html5 canevas")
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
-* [Mathjax](http://www.mathjax.org/ "solution pour affichage des formules mathématiques")
-* [Moment.js](http://momentjs.com/ "analyser, valider, manipuler et afficher les dates en JavaScript")
-* [JS2coffee](http://js2.coffee/ "Convertisseur JavaScript vers CoffeeScript")
+* [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
+* [Moment.js](http://momentjs.com/ "Remplace l'api date de JavaScript, plus que défaillante...")
+* [JS2coffee](http://js2.coffee/ "Convertisseur en ligne JavaScript vers CoffeeScript")
 * [Google Maps API](https://developers.google.com/maps/)
-* [OpenStreetMap](http://www.openstreetmap.org)
+* [OpenStreetMap](https://www.openstreetmap.org)
 * [uMap](http://umap.openstreetmap.fr/ "uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap")
 
 ## CSS
