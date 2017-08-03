@@ -71,32 +71,22 @@
 * [JS Bin](http://jsbin.com/ "Test en ligne pour html/css/js")
 * [CSS3, Please!](http://css3please.com/ "Générateur de règles CSS3 donnant des informations sur le support par les navigateurs")
 * [Clean CSS](http://www.cleancss.com/?lang=fr "Nettoie les feuilles de styles en ligne")
-* [Spritebox](http://www.spritebox.net/"Générateur de sprites css")
+* [Spritebox](http://www.spritebox.net/ "Générateur de sprites css")
 * [Adobe Color](https://color.adobe.com/fr/ "Code couleur html")
-* [Color Scheme Designer](http://colorschemedesigner.com/ "Code couleur html")
-* [Html Color Codes](http://html-color-codes.info/"Code couleur html")
+* [Paletton](http://paletton.com/ "Code couleur html")
+* [Html Color Codes](http://html-color-codes.info/ "Code couleur html")
 * [Colorhexa](http://www.colorhexa.com/ "Code couleur html")
 * [CSS3 Generator](http://css3generator.com/ "Générateur css3")
 * [CSS3 pour text-shadows](http://www.westciv.com/tools/shadows/ "Générateur css3 pour text-shadows")
 * [Normalize css](http://necolas.github.io/normalize.css/ "Feuille de style de base permettant un affichage normalisé pour un maximum de navigateurs" )
 * [CSS Triangle Generator](http://triangle.designyourcode.io/ "Générateur de triangles en css")
 * [IE NetRenderer](http://netrenderer.com/ "Captures d'écran pour tester Internet Explorer en ligne")
+* [html5up](https://html5up.net "Thèmes html/css, gratuits mais de qualité")
 
-## Fonts
+## Typography
 * [Google web font](https://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
 * [FontSquirrel](http://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
-
-## Base64
-* [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
-* [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
-* [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
-
-## SVG
-* [SVG Optimiser](http://petercollingridge.appspot.com/svg_optimiser)
-* [Ikonizr](http://iconizr.com/ "Création d'un kit css/sass pour icônes SVG")
-* [Keysplines SVG](http://www.carto.net/papers/svg/samples/keysplines.svg "Paramétrage keysplines pour l'accélération d'un animateTransform en SVG")
-* [Iconizr](http://iconizr.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
-* [Grumpicon](http://www.grumpicon.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
+* [BirdFont](http://birdfont.org/ "Logiciel multiplateforme pour la création de police de caractères")
 
 ## Images
 * [Smush.it](http://www.smushit.com/ysmush.it/ "Outil de suppression des metadonnées d'une image, ces informations étant la cause d'interprétations différentielles entre navigateurs et d'un poids non négligeable")
@@ -111,6 +101,18 @@
 * [Miriadna](http://miriadna.com/ "Un site hébergeant de très belles images")
 * [Subtlepatterns](http://subtlepatterns.com/ "Images pour background")
 * [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
+
+### Base64
+* [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
+* [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
+* [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
+
+### SVG
+* [SVG Optimiser](http://petercollingridge.appspot.com/svg_optimiser)
+* [Ikonizr](http://iconizr.com/ "Création d'un kit css/sass pour icônes SVG")
+* [Keysplines SVG](http://www.carto.net/papers/svg/samples/keysplines.svg "Paramétrage keysplines pour l'accélération d'un animateTransform en SVG")
+* [Iconizr](http://iconizr.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
+* [Grumpicon](http://www.grumpicon.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
 
 ## Videos
 * [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
@@ -131,20 +133,19 @@
 * [Chrome Platform Status](https://www.chromestatus.com "Notification des avancées dans le développement de Chrome")
 
 ## Sites & Blogs
-* [js-attitude](http://www.js-attitude.fr/ "Blog de Christophe Porteneuve sur ECMAScript")
-* [Stack Overflow](http://stackoverflow.com/)
-* [CSS-Tricks](http://css-tricks.com/)
-* [Alsacreations](http://www.alsacreations.com/)
-* [24 Ways](http://24ways.org/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [CSS-Tricks](https://css-tricks.com/)
+* [Alsacreations](https://www.alsacreations.com/)
+* [24 Ways](https://24ways.org/)
 * [The Sass Way](http://thesassway.com/)
-* [Grafikart](http://www.grafikart.fr/)
-* [Pompage](http://www.pompage.net/)
-* [John Resig](http://ejohn.org/ "Le blog du fondateur de jQuery")
-* [Hugo Giraudel](http://hugogiraudel.com/)
-* [Gerard Ferrandez sur CodePen](http://codepen.io/ge1doot/ "Le CodePen d'un pour du JavaScript en front")
-* [Ana Tudor sur CodePen](http://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
-* [Hugo Giraudel sur CodePen](http://codepen.io/HugoGiraudel/)
+* [Grafikart](https://www.grafikart.fr/)
+* [John Resig](https://johnresig.com/ "Le blog du fondateur de jQuery")
+* [Hugo Giraudel](https://hugogiraudel.com/)
+* [Gerard Ferrandez sur CodePen](https://codepen.io/ge1doot/ "Le CodePen d'un pour du JavaScript en front")
+* [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
+* [Hugo Giraudel sur CodePen](https://codepen.io/HugoGiraudel/)
 * [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
+* [Delicious Insights](https://delicious-insights.com/ "Site de formation de Christophe Porteneuve regroupant des articles intéressant sur Git, Node.js, ECMAScript...")
 
 ## Softwares
 * [Blender](http://www.blender.org/ "Logiciel libre pour création graphique, jeux et vidéos")
