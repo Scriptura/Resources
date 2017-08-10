@@ -108,11 +108,9 @@
 * [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
 
 ### SVG
-* [SVG Optimiser](http://petercollingridge.appspot.com/svg_optimiser)
-* [Ikonizr](http://iconizr.com/ "Création d'un kit css/sass pour icônes SVG")
-* [Keysplines SVG](http://www.carto.net/papers/svg/samples/keysplines.svg "Paramétrage keysplines pour l'accélération d'un animateTransform en SVG")
-* [Iconizr](http://iconizr.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
-* [Grumpicon](http://www.grumpicon.com/ "sprite CSS pour icônes en SVG, avec solution de replis")
+* [Gravit Designer](https://www.designer.io/ "Logiciel de conception pour images vectorielles")
+* [Iconizr](http://iconizr.com/ "Sprites CSS/Sass pour icônes en SVG, avec solution de replis")
+* [Grumpicon](http://www.grumpicon.com/ "Sprite CSS pour icônes en SVG, avec solution de replis")
 
 ## Videos
 * [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
