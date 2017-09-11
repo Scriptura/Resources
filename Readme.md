@@ -74,6 +74,8 @@
 * [Spritebox](http://www.spritebox.net/ "Générateur de sprites css")
 * [Adobe Color](https://color.adobe.com/fr/ "Code couleur html")
 * [Paletton](http://paletton.com/ "Code couleur html")
+* [Material UI](https://www.materialui.co/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
+* [material design palette](https://www.materialpalette.com/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
 * [Html Color Codes](http://html-color-codes.info/ "Code couleur html")
 * [Colorhexa](http://www.colorhexa.com/ "Code couleur html")
 * [CSS3 Generator](http://css3generator.com/ "Générateur css3")
