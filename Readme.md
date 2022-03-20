@@ -27,8 +27,6 @@
 * [yarn](https://yarnpkg.com/fr/ "Alternative sécurisé de npm, développé par Facebook")
 * [Gulp](http://gulpjs.com/ "Task runner")
 * [Grunt](http://gruntjs.com/ "Task runner")
-* [HiFi Regex Tester](http://www.gethifi.com/tools/regex "Outil en ligne pour tester les expressions régulières en javascript")
-* [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
 * [Closure Compiler](http://closure-compiler.appspot.com/home "Outil en ligne permettant de réduire la taille des fichiers JavaScript")
 * [Comparison of JavaScript charting frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_frameworks "Comparaison des bibliothèques pour graphiques 2D")
 * [Chartist](http://gionkunz.github.io/chartist-js/ "Lib pour des graphiques simples en SVG")
@@ -42,18 +40,8 @@
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
 * [Can I use...](http://caniuse.com/)
 * [W3C validation CSS](http://jigsaw.w3.org/css-validator/)
-* [JSFiddle](https://jsfiddle.net/ "Test en ligne pour html/css/js")
-* [Codepen](http://codepen.io/ "Test en ligne pour html/css/js")
-* [JS Bin](http://jsbin.com/ "Test en ligne pour html/css/js")
-* [CSS3, Please!](http://css3please.com/ "Générateur de règles CSS3 donnant des informations sur le support par les navigateurs")
-* [Clean CSS](http://www.cleancss.com/?lang=fr "Nettoie les feuilles de styles en ligne")
-* [Spritebox](http://www.spritebox.net/ "Générateur de sprites css")
-* [Adobe Color](https://color.adobe.com/fr/ "Code couleur html")
-* [Paletton](http://paletton.com/ "Code couleur html")
-* [Material UI](https://www.materialui.co/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
-* [material design palette](https://www.materialpalette.com/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
-* [Html Color Codes](http://html-color-codes.info/ "Code couleur html")
-* [Colorhexa](http://www.colorhexa.com/ "Code couleur html")
+* [Codepen](https://codepen.io/ "Test en ligne pour html/css/js")
+* [Clean CSS](https://www.cleancss.com/?lang=fr "Nettoie les feuilles de styles en ligne")
 * [CSS3 Generator](http://css3generator.com/ "Générateur css3")
 * [CSS3 pour text-shadows](http://www.westciv.com/tools/shadows/ "Générateur css3 pour text-shadows")
 * [Normalize css](http://necolas.github.io/normalize.css/ "Feuille de style de base permettant un affichage normalisé pour un maximum de navigateurs" )
@@ -65,6 +53,14 @@
 * [Google web font](https://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
 * [FontSquirrel](http://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
 * [BirdFont](http://birdfont.org/ "Logiciel multiplateforme pour la création de police de caractères")
+
+## Colors
+* [Adobe Color](https://color.adobe.com/ "Code couleur html")
+* [Paletton](https://paletton.com/ "Code couleur html")
+* [Material UI](https://www.materialui.co/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
+* [material design palette](https://www.materialpalette.com/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
+* [Html Color Codes](http://html-color-codes.info/ "Code couleur html")
+* [Colorhexa](http://www.colorhexa.com/ "Code couleur html")
 
 ## Images
 * [Smush.it](http://www.smushit.com/ysmush.it/ "Outil de suppression des metadonnées d'une image, ces informations étant la cause d'interprétations différentielles entre navigateurs et d'un poids non négligeable")
@@ -89,6 +85,7 @@
 ### Regex
 * [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières")
 * [RegExr](http://www.regexr.com/ "Outil en ligne pour tester les expressions régulières")
+* [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
 
 ### Base64
 * [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
