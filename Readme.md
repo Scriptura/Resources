@@ -31,7 +31,7 @@
 * [Grunt](https://gruntjs.com/ "Task runner")
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
 * [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
-* [Moment.js](http://momentjs.com/ "Remplace l'api date de JavaScript, plus que défaillante...")
+* [Luxon](https://moment.github.io/luxon "Une api de date moderne pour JavaScript")
 * [JS2coffee](http://js2.coffee/ "Convertisseur en ligne JavaScript vers CoffeeScript")
 
 ## CSS
