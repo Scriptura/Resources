@@ -125,12 +125,6 @@
 * [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
 * [Delicious Insights](https://delicious-insights.com/ "Site de formation de Christophe Porteneuve regroupant des articles intéressant sur Git, Node.js, ECMAScript...")
 
-## Softwares
-* [Blender](http://www.blender.org/ "Logiciel libre pour création graphique, jeux et vidéos")
-* [Atom](http://atom.io/)
-* [Brackets](http://brackets.io/)
-* [Sublime Text 3](http://www.sublimetext.com/3)
-
 ## Concepts and trends
 * [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
 * [Design Google](https://design.google.com/ "Site d'une équipe de designer de Google présentant les tendances du groupe")
