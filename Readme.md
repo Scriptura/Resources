@@ -1,23 +1,11 @@
 # Resources for web development
 
-## Security servers
-* [Qualys SSL Labs](https://www.ssllabs.com/index.html)
-
 ## Node.js
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 
-## PHP
-* [Manuel PHP](http://fr.php.net/manual/fr/index.php)
-* [Codex Wordpress](http://codex.wordpress.org/)
-* [PHP: Fonctionnement des expressions rationnelles](http://php.net/manual/fr/reference.pcre.pattern.syntax.php)
-
-## Frameworks & CMS
-* [Symfony](https://symfony.com/)
-* [Drupal](http://drupalfr.org/)
-* [WordPress](https://fr.wordpress.org/)
+## Conception
 * [Bootstrap](https://getbootstrap.com/)
 * [Html5 Boilerplate](https://html5boilerplate.com/)
-* [Less Framework 4](http://lessframework.com/ "Système de grille CSS pour la conception de sites web adaptatifs")
 * [Unsemantic](http://unsemantic.com/ "Successeur de 960 Grid System")
 * [Primer](http://primercss.io/ "Le framework de GitHub")
 
