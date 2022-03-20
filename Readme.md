@@ -59,8 +59,6 @@
 * [Paletton](https://paletton.com/ "Code couleur html")
 * [Material UI](https://www.materialui.co/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
 * [material design palette](https://www.materialpalette.com/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
-* [Html Color Codes](http://html-color-codes.info/ "Code couleur html")
-* [Colorhexa](http://www.colorhexa.com/ "Code couleur html")
 
 ## Images
 * [Smush.it](http://www.smushit.com/ysmush.it/ "Outil de suppression des metadonnées d'une image, ces informations étant la cause d'interprétations différentielles entre navigateurs et d'un poids non négligeable")
