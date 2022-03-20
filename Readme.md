@@ -50,9 +50,8 @@
 * [html5up](https://html5up.net "Thèmes html/css, gratuits mais de qualité")
 
 ## Typography
-* [Google web font](https://www.google.com/webfonts/ "La bibliothèque de polices de caractères de Google")
-* [FontSquirrel](http://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
-* [BirdFont](http://birdfont.org/ "Logiciel multiplateforme pour la création de police de caractères")
+* [Google web font](https://fonts.google.com/ "La bibliothèque de polices de caractères de Google")
+* [FontSquirrel](https://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
 
 ## Colors
 * [Adobe Color](https://color.adobe.com/ "Code couleur html")
@@ -61,24 +60,22 @@
 * [material design palette](https://www.materialpalette.com/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
 
 ## Images
-* [Smush.it](http://www.smushit.com/ysmush.it/ "Outil de suppression des metadonnées d'une image, ces informations étant la cause d'interprétations différentielles entre navigateurs et d'un poids non négligeable")
-* [JPEGmini](http://www.jpegmini.com/ "un outils en ligne de compression d'images, très efficace pour visaliser le rendu en temps réel")
-* [Creative Commons - licence](http://creativecommons.org/choose/?lang=fr "Creative Commons, attribution d'une licence")
-* [Icomoon](http://icomoon.io/ "Générateur de fonts et d'icônes en SVG")
-* [IconFinder](http://www.iconfinder.com/ "Icônes en SVG")
-* [Iconmonstr](http://iconmonstr.com/ "Icônes en SVG")
-* [Flaticon](http://www.flaticon.com/ "Icônes en SVG")
-* [Colrd.com](http://colrd.com/ "Choix d'images en mosaïque")
-* [InterfaceLIFT](http://interfacelift.com/wallpaper_beta/downloads/date/any/ "Un site hébergeant de très belles images")
-* [Miriadna](http://miriadna.com/ "Un site hébergeant de très belles images")
-* [Subtlepatterns](http://subtlepatterns.com/ "Images pour background")
-* [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
+* [JPEGmini](https://www.jpegmini.com/ "un outils en ligne de compression d'images, très efficace pour visaliser le rendu en temps réel")
+* [Colrd.com](https://colrd.com/ "Choix d'images en mosaïque")
+* [InterfaceLIFT](https://interfacelift.com/wallpaper_beta/downloads/date/any/ "Un site hébergeant de très belles images")
+* [Subtlepatterns](https://www.toptal.com/designers/subtlepatterns/ "Images pour background")
+
+## Icons
+* [Icomoon](https://icomoon.io/ "Générateur de fonts et d'icônes en SVG")
+* [IconFinder](https://www.iconfinder.com/ "Icônes en SVG")
+* [Iconmonstr](https://iconmonstr.com/ "Icônes en SVG")
+* [Flaticon](https://www.flaticon.com/ "Icônes en SVG")
 
 ## Maps
 * [Leaflet](https://leafletjs.com/)
-* [Google Maps API](https://developers.google.com/maps/)
 * [OpenStreetMap](https://www.openstreetmap.org)
-* [uMap](http://umap.openstreetmap.fr/ "uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap")
+* [Mapbox](https://www.mapbox.com/)
+* [Google Maps API](https://developers.google.com/maps/)
 
 ### Regex
 * [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières")
