@@ -70,6 +70,7 @@
 * [IconFinder](https://www.iconfinder.com/ "Icônes en SVG")
 * [Iconmonstr](https://iconmonstr.com/ "Icônes en SVG")
 * [Flaticon](https://www.flaticon.com/ "Icônes en SVG")
+* [Iconizr](http://iconizr.com/ "Sprites CSS/Sass pour icônes en SVG, avec solution de replis")
 
 ## Maps
 * [Leaflet](https://leafletjs.com/)
@@ -89,8 +90,6 @@
 
 ### SVG
 * [Gravit Designer](https://www.designer.io/ "Logiciel de conception pour images vectorielles")
-* [Iconizr](http://iconizr.com/ "Sprites CSS/Sass pour icônes en SVG, avec solution de replis")
-* [Grumpicon](http://www.grumpicon.com/ "Sprite CSS pour icônes en SVG, avec solution de replis")
 
 ## Videos
 * [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
