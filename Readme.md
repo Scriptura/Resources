@@ -25,13 +25,9 @@
 * [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
 * [Node.js](https://nodejs.org)
 * [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
-* [yarn](https://yarnpkg.com/fr/ "Alternative sécurisé de npm, développé par Facebook")
-* [Gulp](http://gulpjs.com/ "Task runner")
-* [Grunt](http://gruntjs.com/ "Task runner")
-* [Closure Compiler](http://closure-compiler.appspot.com/home "Outil en ligne permettant de réduire la taille des fichiers JavaScript")
-* [Comparison of JavaScript charting frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_frameworks "Comparaison des bibliothèques pour graphiques 2D")
-* [Chartist](http://gionkunz.github.io/chartist-js/ "Lib pour des graphiques simples en SVG")
-* [Chart.js](http://www.chartjs.org/ "Lib pour des graphiques via html5 canevas")
+* [yarn](https://yarnpkg.com/ "Alternative sécurisé de npm, développé par Facebook")
+* [Gulp](https://gulpjs.com/ "Task runner")
+* [Grunt](https://gruntjs.com/ "Task runner")
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
 * [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
 * [Moment.js](http://momentjs.com/ "Remplace l'api date de JavaScript, plus que défaillante...")
@@ -43,11 +39,11 @@
 * [W3C validation CSS](http://jigsaw.w3.org/css-validator/)
 * [Codepen](https://codepen.io/ "Test en ligne pour html/css/js")
 * [Clean CSS](https://www.cleancss.com/?lang=fr "Nettoie les feuilles de styles en ligne")
-* [CSS3 Generator](http://css3generator.com/ "Générateur css3")
-* [CSS3 pour text-shadows](http://www.westciv.com/tools/shadows/ "Générateur css3 pour text-shadows")
-* [Normalize css](http://necolas.github.io/normalize.css/ "Feuille de style de base permettant un affichage normalisé pour un maximum de navigateurs" )
+* [CSS3 Generator](https://css3generator.com/ "Générateur css3")
+* [CSS3 pour text-shadows](https://www.westciv.com/tools/shadows/ "Générateur css3 pour text-shadows")
+* [Normalize css](https://necolas.github.io/normalize.css/ "Feuille de style de base permettant un affichage normalisé pour un maximum de navigateurs" )
+* [Clippy](https://bennettfeely.com/clippy/ "clip-path online")
 * [CSS Triangle Generator](http://triangle.designyourcode.io/ "Générateur de triangles en css")
-* [IE NetRenderer](http://netrenderer.com/ "Captures d'écran pour tester Internet Explorer en ligne")
 * [html5up](https://html5up.net "Thèmes html/css, gratuits mais de qualité")
 
 ## Typography
@@ -79,18 +75,23 @@
 * [Mapbox](https://www.mapbox.com/)
 * [Google Maps API](https://developers.google.com/maps/)
 
+## Graphs
+* [Comparison of JavaScript charting frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_frameworks "Comparaison des bibliothèques pour graphiques 2D")
+* [Chartist](http://gionkunz.github.io/chartist-js/ "Lib pour des graphiques simples en SVG")
+* [Chart.js](http://www.chartjs.org/ "Lib pour des graphiques via html5 canevas")
+
 ### Regex
 * [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières")
 * [RegExr](http://www.regexr.com/ "Outil en ligne pour tester les expressions régulières")
 * [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
 
+### SVG
+* [Gravit Designer](https://www.designer.io/ "Logiciel de conception pour images vectorielles")
+
 ### Base64
 * [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
 * [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
-
-### SVG
-* [Gravit Designer](https://www.designer.io/ "Logiciel de conception pour images vectorielles")
 
 ## Videos
 * [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
@@ -112,12 +113,11 @@
 * [CSS-Tricks](https://css-tricks.com/)
 * [Alsacreations](https://www.alsacreations.com/)
 * [24 Ways](https://24ways.org/)
-* [The Sass Way](http://thesassway.com/)
+* [The Sass Way](https://thesassway.com/)
+* [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Grafikart](https://www.grafikart.fr/)
-* [John Resig](https://johnresig.com/ "Le blog du fondateur de jQuery")
 * [Hugo Giraudel](https://hugogiraudel.com/)
 * [Gerard Ferrandez sur CodePen](https://codepen.io/ge1doot/ "Le CodePen d'un pour du JavaScript en front")
-* [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Hugo Giraudel sur CodePen](https://codepen.io/HugoGiraudel/)
 * [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
 * [Delicious Insights](https://delicious-insights.com/ "Site de formation de Christophe Porteneuve regroupant des articles intéressant sur Git, Node.js, ECMAScript...")
