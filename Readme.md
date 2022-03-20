@@ -16,11 +16,9 @@
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "memento pour Markdown")
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 * [Liste des codes ISO 639 pour les langues](http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1)
-* [Jade](http://jade-lang.com/ "Syntaxe de template")
-* [HTML to Jade converter](http://html2jade.aaron-powell.com/)
-* [Jade converter](http://html2jade.org/)
+* [Pug](https://pugjs.org/ "Syntaxe de template")
 * [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
-* [Microdata Testing Tool](http://www.google.com/webmasters/tools/richsnippets "outil de test Google pour les données strucurées")
+* [Microdata Testing Tool](https://developers.google.com/search/docs/advanced/structured-data "outil de test Google pour les données strucurées")
 
 ## JavaScript
 [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
