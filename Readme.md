@@ -117,7 +117,7 @@
 * [The Sass Way](https://thesassway.com/)
 * [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Grafikart](https://www.grafikart.fr/)
-* [Hugo Giraudel](https://hugogiraudel.com/)
+* [Kitty Giraudel](https://kittygiraudel.com/ "Hugo -> Kitty...")
 * [Gerard Ferrandez sur CodePen](https://codepen.io/ge1doot/ "Le CodePen d'un pour du JavaScript en front")
 * [Hugo Giraudel sur CodePen](https://codepen.io/HugoGiraudel/)
 * [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
