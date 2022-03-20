@@ -22,7 +22,8 @@
 * [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
 * [Microdata Testing Tool](http://www.google.com/webmasters/tools/richsnippets "outil de test Google pour les données strucurées")
 
-## Javascript
+## JavaScript
+[TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
 * [Node.js](https://nodejs.org)
 * [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
 * [yarn](https://yarnpkg.com/fr/ "Alternative sécurisé de npm, développé par Facebook")
@@ -38,9 +39,6 @@
 * [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
 * [Moment.js](http://momentjs.com/ "Remplace l'api date de JavaScript, plus que défaillante...")
 * [JS2coffee](http://js2.coffee/ "Convertisseur en ligne JavaScript vers CoffeeScript")
-* [Google Maps API](https://developers.google.com/maps/)
-* [OpenStreetMap](https://www.openstreetmap.org)
-* [uMap](http://umap.openstreetmap.fr/ "uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap")
 
 ## CSS
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
@@ -83,6 +81,12 @@
 * [Miriadna](http://miriadna.com/ "Un site hébergeant de très belles images")
 * [Subtlepatterns](http://subtlepatterns.com/ "Images pour background")
 * [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
+
+## Maps
+* [Leaflet](https://leafletjs.com/)
+* [Google Maps API](https://developers.google.com/maps/)
+* [OpenStreetMap](https://www.openstreetmap.org)
+* [uMap](http://umap.openstreetmap.fr/ "uMap permet de créer des cartes personnalisées sur des fonds OpenStreetMap")
 
 ### Regex
 * [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières")
