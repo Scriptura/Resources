@@ -21,7 +21,8 @@
 * [Microdata Testing Tool](https://developers.google.com/search/docs/advanced/structured-data "outil de test Google pour les données strucurées")
 
 ## JavaScript
-[TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
+* [freecodecamp](https://www.freecodecamp.org/)
+* [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
 * [Node.js](https://nodejs.org)
 * [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
 * [yarn](https://yarnpkg.com/fr/ "Alternative sécurisé de npm, développé par Facebook")
