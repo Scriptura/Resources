@@ -70,6 +70,9 @@
 * [Flaticon](https://www.flaticon.com/ "Icônes en SVG")
 * [Iconizr](http://iconizr.com/ "Sprites CSS/Sass pour icônes en SVG, avec solution de replis")
 
+## Favicons
+* [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
+
 ## Maps
 * [Leaflet](https://leafletjs.com/)
 * [OpenStreetMap](https://www.openstreetmap.org)
@@ -105,7 +108,6 @@
 * [WebPageTest](http://www.webpagetest.org/)
 * [Woorank](http://www.woorank.com/ "Outil d'analyse de site web pour le SEO")
 * [CloudConvert](https://cloudconvert.com/ "Outil de conversion de fichiers d'un format à un autre")
-* [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
 * [Chrome Experiments](https://experiments.withgoogle.com/ "Laboratoire dédié à Chrome")
 * [Chrome Platform Status](https://www.chromestatus.com "Notification des avancées dans le développement de Chrome")
 
