@@ -22,6 +22,7 @@
 
 ## JavaScript
 * [freecodecamp](https://www.freecodecamp.org/)
+* [codecademy](https://www.codecademy.com/)
 * [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
 * [Node.js](https://nodejs.org)
 * [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
