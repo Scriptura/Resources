@@ -21,8 +21,9 @@
 * [Microdata Testing Tool](https://developers.google.com/search/docs/advanced/structured-data "outil de test Google pour les données strucurées")
 
 ## JavaScript
-* [freecodecamp](https://www.freecodecamp.org/)
-* [codecademy](https://www.codecademy.com/)
+* [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
+* [codecademy](https://www.codecademy.com/ "Formation en ligne")
+* [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
 * [Node.js](https://nodejs.org)
 * [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
