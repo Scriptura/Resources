@@ -4,10 +4,9 @@
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 
 ## Conception
-* [Bootstrap](https://getbootstrap.com/)
 * [Html5 Boilerplate](https://html5boilerplate.com/)
-* [Unsemantic](http://unsemantic.com/ "Successeur de 960 Grid System")
 * [Primer](http://primercss.io/ "Le framework de GitHub")
+* [Bootstrap](https://getbootstrap.com/)
 
 ## HTML
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
@@ -29,10 +28,6 @@
 * [yarn](https://yarnpkg.com/fr/ "Alternative sécurisé de npm, développé par Facebook")
 * [Gulp](http://gulpjs.com/ "Task runner")
 * [Grunt](http://gruntjs.com/ "Task runner")
-* [jQuery UI](http://jqueryui.com/demos/)
-* [Cycle 2](http://jquery.malsup.com/cycle2/ "Slide avec jQuery")
-* [RegExr](http://www.regexr.com/ "Outil en ligne pour tester les expressions régulières en javascript")
-* [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières en javascript")
 * [HiFi Regex Tester](http://www.gethifi.com/tools/regex "Outil en ligne pour tester les expressions régulières en javascript")
 * [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
 * [Closure Compiler](http://closure-compiler.appspot.com/home "Outil en ligne permettant de réduire la taille des fichiers JavaScript")
@@ -89,6 +84,10 @@
 * [Subtlepatterns](http://subtlepatterns.com/ "Images pour background")
 * [Textify](http://textify.it/ "Une exellente application en ligne permettant de transformer une image en texte")
 
+### Regex
+* [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières")
+* [RegExr](http://www.regexr.com/ "Outil en ligne pour tester les expressions régulières")
+
 ### Base64
 * [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
@@ -103,18 +102,15 @@
 * [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
 
 ## Monitoring Tools
-* [Google Webmaster Tools](https://www.google.com/webmasters/tools/)
-* [Google Analytics](http://www.google.com/intl/fr/analytics/)
-* [Wave](http://wave.webaim.org/ "outil permettant d'évaluer l'accessibilité d'un site web")
+* [Wave](https://wave.webaim.org/ "outil permettant d'évaluer l'accessibilité d'un site web")
 * [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
-* [Dareboost](http://www.dareboost.com/)
-* [Gtmetrix](http://gtmetrix.com/)
+* [Dareboost](https://www.dareboost.com/)
+* [Gtmetrix](https://gtmetrix.com/)
 * [WebPageTest](http://www.webpagetest.org/)
 * [Woorank](http://www.woorank.com/ "Outil d'analyse de site web pour le SEO")
 * [CloudConvert](https://cloudconvert.com/ "Outil de conversion de fichiers d'un format à un autre")
 * [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
-* [Internet Explorer Test Drive](http://dev.modern.ie/testdrive/ "Benchmark amusant pour navigateurs par Microsoft")
-* [Chrome Experiments](http://www.chromeexperiments.com/ "Laboratoire dédié à Chrome")
+* [Chrome Experiments](https://experiments.withgoogle.com/ "Laboratoire dédié à Chrome")
 * [Chrome Platform Status](https://www.chromestatus.com "Notification des avancées dans le développement de Chrome")
 
 ## Sites & Blogs
