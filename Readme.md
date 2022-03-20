@@ -3,9 +3,6 @@
 ## Security servers
 * [Qualys SSL Labs](https://www.ssllabs.com/index.html)
 
-## MySQL
-* [Download MySQL Community Server](http://dev.mysql.com/downloads/mysql/ "Télécharger MySQL")
-
 ## Node.js
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 
