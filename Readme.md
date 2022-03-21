@@ -128,6 +128,7 @@
 * [Data motion](http://www.data-motion.com/ "Le design émotionnel")
 
 ## Projects (for inspiration)
+* [codesandbox, Postgres](https://codesandbox.io/s/182jv)
 * [node-express-postgresql-server](https://codesandbox.io/s/github/rwieruch/node-express-postgresql-server/tree/postgres-sequelize-setup?file=/.prettierrc)
 
 ## Other
