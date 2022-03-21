@@ -1,9 +1,9 @@
 # Resources for web development
 
 ## JavaScript
+* [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
 * [codecademy](https://www.codecademy.com/ "Formation en ligne")
-* [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
 * [javascript for loop alternatives 1](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-1/)
 * [javascript for loop alternatives 2](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-2/)
