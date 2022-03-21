@@ -25,6 +25,8 @@
 * [codecademy](https://www.codecademy.com/ "Formation en ligne")
 * [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
+* [javascript for loop alternatives 1](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-1/)
+* [javascript for loop alternatives 2](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-2/)
 * [Node.js](https://nodejs.org)
 * [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
 * [yarn](https://yarnpkg.com/ "Alternative sécurisé de npm, développé par Facebook")
