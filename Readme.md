@@ -127,6 +127,9 @@
 * [Design Google](https://design.google.com/ "Site d'une équipe de designer de Google présentant les tendances du groupe")
 * [Data motion](http://www.data-motion.com/ "Le design émotionnel")
 
+## Projects (for inspiration)
+* [node-express-postgresql-server](https://codesandbox.io/s/github/rwieruch/node-express-postgresql-server/tree/postgres-sequelize-setup?file=/.prettierrc)
+
 ## Other
 * [Telegra.ph](https://telegra.ph)
 * [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist "Checklist de contrôle du développeur")
