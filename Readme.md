@@ -1,5 +1,21 @@
 # Resources for web development
 
+## JavaScript
+* [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
+* [codecademy](https://www.codecademy.com/ "Formation en ligne")
+* [javascript.info](https://javascript.info/ "Cours JavaScript")
+* [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
+* [javascript for loop alternatives 1](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-1/)
+* [javascript for loop alternatives 2](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-2/)
+* [Node.js](https://nodejs.org)
+* [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
+* [yarn](https://yarnpkg.com/ "Alternative sécurisé de npm, développé par Facebook")
+* [Gulp](https://gulpjs.com/ "Task runner")
+* [Grunt](https://gruntjs.com/ "Task runner")
+* [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
+* [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
+* [Luxon](https://moment.github.io/luxon "Une api de date moderne pour JavaScript")
+
 ## Node.js
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 
@@ -19,23 +35,6 @@
 * [Pug](https://pugjs.org/ "Syntaxe de template")
 * [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
 * [Microdata Testing Tool](https://developers.google.com/search/docs/advanced/structured-data "outil de test Google pour les données strucurées")
-
-## JavaScript
-* [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
-* [codecademy](https://www.codecademy.com/ "Formation en ligne")
-* [javascript.info](https://javascript.info/ "Cours JavaScript")
-* [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
-* [javascript for loop alternatives 1](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-1/)
-* [javascript for loop alternatives 2](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-2/)
-* [Node.js](https://nodejs.org)
-* [npm](https://docs.npmjs.com/cli/install "Install a package for Node.js")
-* [yarn](https://yarnpkg.com/ "Alternative sécurisé de npm, développé par Facebook")
-* [Gulp](https://gulpjs.com/ "Task runner")
-* [Grunt](https://gruntjs.com/ "Task runner")
-* [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
-* [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
-* [Luxon](https://moment.github.io/luxon "Une api de date moderne pour JavaScript")
-* [JS2coffee](http://js2.coffee/ "Convertisseur en ligne JavaScript vers CoffeeScript")
 
 ## CSS
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
