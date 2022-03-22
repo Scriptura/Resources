@@ -1,6 +1,6 @@
 # Resources for web development
 
-## JavaScript
+## JavaScript, learning and inspiration
 * [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
 * [codecademy](https://www.codecademy.com/ "Formation en ligne")
@@ -9,9 +9,6 @@
 * [javascript for loop alternatives 1](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-1/)
 * [javascript for loop alternatives 2](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-2/)
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
-* [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
-* [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
-* [Luxon](https://moment.github.io/luxon "Une api de date moderne pour JavaScript")
 
 ## Conception
 * [Html5 Boilerplate](https://html5boilerplate.com/)
@@ -69,6 +66,9 @@
 ## Favicons
 * [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
 
+## Dates
+* [Luxon](https://moment.github.io/luxon "Une api de date moderne pour JavaScript")
+
 ## Maps
 * [Leaflet](https://leafletjs.com/)
 * [OpenStreetMap](https://www.openstreetmap.org)
@@ -96,6 +96,9 @@
 ## Videos
 * [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
 
+## Mathematical formulas
+* [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
+
 ## Monitoring Tools
 * [Wave](https://wave.webaim.org/ "outil permettant d'évaluer l'accessibilité d'un site web")
 * [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
@@ -116,7 +119,7 @@
 * [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Grafikart](https://www.grafikart.fr/)
 * [Kitty Giraudel](https://kittygiraudel.com/ "Hugo -> Kitty...")
-* [Gerard Ferrandez sur CodePen](https://codepen.io/ge1doot/ "Le CodePen d'un pour du JavaScript en front")
+* [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants pour du javascript front")
 * [Hugo Giraudel sur CodePen](https://codepen.io/HugoGiraudel/)
 * [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
 * [Delicious Insights](https://delicious-insights.com/ "Site de formation de Christophe Porteneuve regroupant des articles intéressant sur Git, Node.js, ECMAScript...")
