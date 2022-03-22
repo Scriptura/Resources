@@ -4,15 +4,14 @@
 * [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
 * [codecademy](https://www.codecademy.com/ "Formation en ligne")
+* [Eloquent javascript](https://eloquentjavascript.net/)
 * [TheAlgorithms: Javascript](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
 * [javascript for loop alternatives 1](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-1/)
 * [javascript for loop alternatives 2](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-2/)
+* [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants en javascript")
 * [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
 * [Luxon](https://moment.github.io/luxon "Une api de date moderne pour JavaScript")
-
-## Node.js
-* [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 
 ## Conception
 * [Html5 Boilerplate](https://html5boilerplate.com/)
