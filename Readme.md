@@ -1,6 +1,6 @@
 # Resources for web development
 
-## JavaScript, learning and inspiration
+## JavaScript, learning
 * [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
 * [codecademy](https://www.codecademy.com/ "Formation en ligne")
@@ -21,11 +21,11 @@
 * [Balises HTML, W3C](http://dev.w3.org/html5/html-author/)
 * [Html5Please](http://html5please.com/ "Vérifie la compatibilité des fonctionnalités html5 selon chaque navigateur")
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "memento pour Markdown")
-* [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 * [Liste des codes ISO 639 pour les langues](http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1)
-* [Pug](https://pugjs.org/ "Syntaxe de template")
 * [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
 * [Microdata Testing Tool](https://developers.google.com/search/docs/advanced/structured-data "outil de test Google pour les données strucurées")
+* [Pug](https://pugjs.org/ "Syntaxe de template")
+* [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 
 ## CSS
 * [Mozilla developer, références CSS](https://developer.mozilla.org/fr/docs/CSS/Reference)
