@@ -96,9 +96,6 @@
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
 * [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
 
-## Videos
-* [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
-
 ## Mathematical formulas
 * [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
 
@@ -138,6 +135,7 @@
 
 ## Other
 * [Telegra.ph](https://telegra.ph)
+* [Télécharger vidéos youtube](http://telecharger-videos-youtube.com/ "Contrairement à ce que son nom indique, Télécharger vidéos youtube ne permet pas seulement de télécharger les vidéos du site youtube : c'est un convertisseur qui peut télécharger les fichiers vidéos et audios de plus de 700 sites !")
 * [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist "Checklist de contrôle du développeur")
 * [Adresse Email Temporaire](https://www.adresseemailtemporaire.com/)
 
