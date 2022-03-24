@@ -88,9 +88,6 @@
 * [RegExr](http://www.regexr.com/ "Outil en ligne pour tester les expressions régulières")
 * [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
 
-### SVG
-* [Gravit Designer](https://www.designer.io/ "Logiciel de conception pour images vectorielles")
-
 ### Base64
 * [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
