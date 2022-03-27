@@ -28,6 +28,7 @@
 * [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
 * [Microdata Testing Tool](https://developers.google.com/search/docs/advanced/structured-data "outil de test Google pour les données strucurées")
 * [Pug](https://pugjs.org/ "Syntaxe de template")
+* [babel-plugin-transform-react-pug](https://www.npmjs.com/package/babel-plugin-transform-react-pug)
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 
 ## CSS
@@ -96,7 +97,8 @@
 ## Mathematical formulas
 * [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
 
-## Monitoring Tools
+## Development and monitoring Tools
+* [GitHub Copilot](https://github.com/github/copilot-docs)
 * [Wave](https://wave.webaim.org/ "outil permettant d'évaluer l'accessibilité d'un site web")
 * [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
 * [Dareboost](https://www.dareboost.com/)
