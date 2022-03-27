@@ -28,7 +28,7 @@
 * [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
 * [Microdata Testing Tool](https://developers.google.com/search/docs/advanced/structured-data "outil de test Google pour les données strucurées")
 * [Pug](https://pugjs.org/ "Syntaxe de template")
-* [babel-plugin-transform-react-pug](https://www.npmjs.com/package/babel-plugin-transform-react-pug)
+* [Babel plugin transform react pug](https://www.npmjs.com/package/babel-plugin-transform-react-pug "Utilisez Pug pour écrire des composants React.")
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 
 ## CSS
