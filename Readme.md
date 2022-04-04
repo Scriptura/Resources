@@ -14,7 +14,7 @@
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 
 ## React
-* [Tutoriel React : aperçu et procédure pas à pas](https://www.taniarascia.com/getting-started-with-react/)
+* [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/ "Tutoriel React : aperçu et procédure pas à pas")
 
 ## Conception
 * [Html5 Boilerplate](https://html5boilerplate.com/)
