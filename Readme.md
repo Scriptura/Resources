@@ -122,7 +122,6 @@
 * [Grafikart](https://www.grafikart.fr/)
 * [Kitty Giraudel](https://kittygiraudel.com/ "Hugo -> Kitty...")
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants pour du javascript front")
-* [Hugo Giraudel sur CodePen](https://codepen.io/HugoGiraudel/)
 * [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
 * [Delicious Insights](https://delicious-insights.com/ "Site de formation de Christophe Porteneuve regroupant des articles intéressant sur Git, Node.js, ECMAScript...")
 
