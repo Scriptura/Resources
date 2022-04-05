@@ -15,6 +15,7 @@
 
 ## React
 * [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/ "Tutoriel React : aperçu et procédure pas à pas")
+* [Babel plugin transform React Pug](https://www.npmjs.com/package/babel-plugin-transform-react-pug "Utilisez Pug pour écrire des composants React.")
 
 ## Conception
 * [Html5 Boilerplate](https://html5boilerplate.com/)
@@ -31,7 +32,6 @@
 * [Schema.org](https://schema.org/ "site de référence sur les données structurées (Microdata)")
 * [Microdata Testing Tool](https://developers.google.com/search/docs/advanced/structured-data "outil de test Google pour les données strucurées")
 * [Pug](https://pugjs.org/ "Syntaxe de template")
-* [Babel plugin transform React Pug](https://www.npmjs.com/package/babel-plugin-transform-react-pug "Utilisez Pug pour écrire des composants React.")
 * [Markdown Live Preview](http://markdownlivepreview.com/ "Pour visualiser le rendu d'un .md en live")
 
 ## CSS
