@@ -117,7 +117,6 @@
 * [CSS-Tricks](https://css-tricks.com/)
 * [Alsacreations](https://www.alsacreations.com/)
 * [24 Ways](https://24ways.org/)
-* [The Sass Way](https://thesassway.com/)
 * [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Grafikart](https://www.grafikart.fr/)
 * [Kitty Giraudel](https://kittygiraudel.com/ "Hugo -> Kitty...")
