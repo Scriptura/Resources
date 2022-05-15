@@ -113,17 +113,16 @@
 * [Chrome Platform Status](https://www.chromestatus.com "Notification des avancées dans le développement de Chrome")
 
 ## Technological watch and help
-* [Stack Overflow](https://stackoverflow.com/)
 * [CSS-Tricks](https://css-tricks.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
+* [Stack Overflow](https://stackoverflow.com/)
 * [Alsacreations](https://www.alsacreations.com/)
-* [24 Ways](https://24ways.org/ "Initiative de développeurs regroupant d'excellentes ressources en son temps, mais arrêté en 2019")
 * [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
+* [Lea Verou](https://lea.verou.me/ "Blog d'une experte consultante du W3C")
 * [Grafikart](https://www.grafikart.fr/)
 * [Kitty Giraudel](https://kittygiraudel.com/ "Hugo -> Kitty...")
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants pour du javascript front")
-* [Lea Verou](http://lea.verou.me/ "Blog d'une experte consultante du W3C")
-* [Delicious Insights](https://delicious-insights.com/ "Site de formation de Christophe Porteneuve regroupant des articles intéressant sur Git, Node.js, ECMAScript...")
+* [24 Ways](https://24ways.org/ "Initiative de développeurs regroupant d'excellentes ressources en son temps, mais arrêté en 2019")
 
 ## Concepts and trends
 * [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
