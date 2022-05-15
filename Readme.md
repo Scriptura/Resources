@@ -116,7 +116,7 @@
 ## Technological watch and help
 * [CSS-Tricks](https://css-tricks.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
-* [DigitalOcean](https://www.digitalocean.com/)
+* [DigitalOcean](https://www.digitalocean.com/community/tutorials)
 * [Stack Overflow](https://stackoverflow.com/)
 * [Alsacreations](https://www.alsacreations.com/)
 * [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
