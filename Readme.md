@@ -112,11 +112,11 @@
 * [Chrome Experiments](https://experiments.withgoogle.com/ "Laboratoire dédié à Chrome")
 * [Chrome Platform Status](https://www.chromestatus.com "Notification des avancées dans le développement de Chrome")
 
-## Sites & Blogs
+## Technological watch and help
 * [Stack Overflow](https://stackoverflow.com/)
 * [CSS-Tricks](https://css-tricks.com/)
-* [Alsacreations](https://www.alsacreations.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
+* [Alsacreations](https://www.alsacreations.com/)
 * [24 Ways](https://24ways.org/ "Initiative de développeurs regroupant d'excellentes ressources en son temps, mais arrêté en 2019")
 * [Ana Tudor sur CodePen](https://codepen.io/thebabydino/ "Le CodePen d'une surdouée du CSS")
 * [Grafikart](https://www.grafikart.fr/)
