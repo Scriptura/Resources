@@ -48,20 +48,21 @@
 * [html5up](https://html5up.net "Thèmes html/css, gratuits mais de qualité")
 
 ## Typography
-* [Google web font](https://fonts.google.com/ "La bibliothèque de polices de caractères de Google")
-* [FontSquirrel](https://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne" )
+* [Google Fonts](https://fonts.google.com/ "La bibliothèque de polices de caractères de Google.")
+* [Noto fonts (home)](https://fonts.google.com/noto "Une famille de polices si particulière qu'elle possède sa propre page dédiée sur Google Fonts. Elle a nescessité des années de recherche, d'éminents typographes ont participé au projet.")
+* [FontSquirrel](https://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne." )
 
 ## Colors
-* [Adobe Color](https://color.adobe.com/ "Code couleur html")
-* [Paletton](https://paletton.com/ "Code couleur html")
-* [Material UI](https://www.materialui.co/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
-* [material design palette](https://www.materialpalette.com/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes")
+* [Adobe Color](https://color.adobe.com/ "Code couleur html.")
+* [Paletton](https://paletton.com/ "Code couleur html.")
+* [Material UI](https://www.materialui.co/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes.")
+* [material design palette](https://www.materialpalette.com/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes.")
 
 ## Images
-* [JPEGmini](https://www.jpegmini.com/ "un outils en ligne de compression d'images, très efficace pour visaliser le rendu en temps réel")
-* [Colrd.com](https://colrd.com/ "Choix d'images en mosaïque")
-* [InterfaceLIFT](https://interfacelift.com/wallpaper_beta/downloads/date/any/ "Un site hébergeant de très belles images")
-* [Subtlepatterns](https://www.toptal.com/designers/subtlepatterns/ "Images pour background")
+* [JPEGmini](https://www.jpegmini.com/ "Un outils en ligne de compression d'images, très efficace pour visaliser le rendu en temps réel.")
+* [Colrd.com](https://colrd.com/ "Choix d'images en mosaïque.")
+* [Subtlepatterns](https://www.toptal.com/designers/subtlepatterns/ "Images pour background.")
+* [InterfaceLIFT](https://interfacelift.com/wallpaper_beta/downloads/date/any/ "Un site hébergeant de très belles images. Arrêté en 2019.")
 
 ## Icons
 * [Icomoon](https://icomoon.io/ "Générateur de fonts et d'icônes en SVG")
