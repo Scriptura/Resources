@@ -24,6 +24,7 @@
 
 ## HTML
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
+* [WHATWG: HTML Standard](https://html.spec.whatwg.org/multipage/)
 * [W3C Validator (HTML)](http://validator.w3.org/ "vérifie la conformité du code HTML avec la norme W3C")
 * [Balises HTML, W3C](http://dev.w3.org/html5/html-author/)
 * [Html5Please](http://html5please.com/ "Vérifie la compatibilité des fonctionnalités html5 selon chaque navigateur")
