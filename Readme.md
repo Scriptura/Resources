@@ -12,6 +12,7 @@
 * [javascript for loop alternatives 1](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-1/)
 * [javascript for loop alternatives 2](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-2/)
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
+* [HackerNoon](https://hackernoon.com)
 
 ## React
 * [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/ "Tutoriel React : aperçu et procédure pas à pas")
