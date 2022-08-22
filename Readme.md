@@ -64,6 +64,7 @@
 * [JPEGmini](https://www.jpegmini.com/ "Un outils en ligne de compression d'images, très efficace pour visaliser le rendu en temps réel.")
 * [Pixabay](https://pixabay.com/ "Banque d'images.")
 * [Unsplash](https://unsplash.com/ "Banque d'images.")
+* [Pexel](https://www.pexels.com/ "Banque d'images.")
 * [Subtlepatterns](https://www.toptal.com/designers/subtlepatterns/ "Images pour background.")
 * [InterfaceLIFT](https://interfacelift.com/wallpaper_beta/downloads/date/any/ "Banque d'images. En pause depuis 2019.")
 
