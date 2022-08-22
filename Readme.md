@@ -62,10 +62,10 @@
 
 ## Images
 * [JPEGmini](https://www.jpegmini.com/ "Un outils en ligne de compression d'images, très efficace pour visaliser le rendu en temps réel.")
-* [Colrd.com](https://colrd.com/ "Choix d'images en mosaïque.")
+* [https://pixabay.com/](https://colrd.com/ "Banque d'images.")
 * [Unsplash](https://unsplash.com/ "Banque d'images.")
 * [Subtlepatterns](https://www.toptal.com/designers/subtlepatterns/ "Images pour background.")
-* [InterfaceLIFT](https://interfacelift.com/wallpaper_beta/downloads/date/any/ "Un site hébergeant de très belles images. Arrêté en 2019.")
+* [InterfaceLIFT](https://interfacelift.com/wallpaper_beta/downloads/date/any/ "Banque d'images. En pause depuis 2019.")
 
 ## Icons
 * [Icomoon](https://icomoon.io/ "Générateur de fonts et d'icônes en SVG")
