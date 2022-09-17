@@ -20,7 +20,7 @@
 
 ## Conception
 * [Html5 Boilerplate](https://html5boilerplate.com/)
-* [Primer](http://primercss.io/ "Le framework de GitHub")
+* [Primer](https://primer.style/ "Le framework de GitHub")
 * [Bootstrap](https://getbootstrap.com/)
 
 ## HTML
