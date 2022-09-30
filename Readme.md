@@ -48,7 +48,8 @@
 * [Clippy](https://bennettfeely.com/clippy/ "clip-path online")
 * [CSS Triangle Generator](http://triangle.designyourcode.io/ "Générateur de triangles en css")
 * [html5up](https://html5up.net "Thèmes html/css, gratuits mais de qualité")
-* [Stylus](https://stylus-lang.com/)
+* [Stylus](https://stylus-lang.com/ "LE préprocesseur CSS que nous affectionnons.")
+* [Stylus cheatsheet](https://devhints.io/stylus "Feuille de pompe officielle !")
 
 ## Typography
 * [Google Fonts](https://fonts.google.com/ "La bibliothèque de polices de caractères de Google.")
