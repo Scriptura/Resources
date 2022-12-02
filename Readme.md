@@ -44,17 +44,21 @@
 * [Clean CSS](https://www.cleancss.com/?lang=fr "Nettoie les feuilles de styles en ligne")
 * [CSS3 Generator](https://css3generator.com/ "Générateur css3")
 * [CSS3 pour text-shadows](https://www.westciv.com/tools/shadows/ "Générateur css3 pour text-shadows")
-* [Normalize css](https://necolas.github.io/normalize.css/ "Feuille de style de base permettant un affichage normalisé pour un maximum de navigateurs" )
+* [Normalize css](https://necolas.github.io/normalize.css/ "Feuille de style de base permettant un affichage normalisé pour un maximum de navigateurs")
 * [Clippy](https://bennettfeely.com/clippy/ "clip-path online")
 * [CSS Triangle Generator](http://triangle.designyourcode.io/ "Générateur de triangles en css")
 * [html5up](https://html5up.net "Thèmes html/css, gratuits mais de qualité")
 * [Stylus](https://stylus-lang.com/ "LE préprocesseur CSS que nous affectionnons.")
 * [Stylus cheatsheet](https://devhints.io/stylus "Feuille de pompe officielle !")
 
+## ARIA
+* [W3C, ARIA guide pratique](https://www.w3.org/WAI/ARIA/apg/ "")
+* [W3C, ARIA patterns](https://www.w3.org/WAI/ARIA/apg/patterns/ "")
+
 ## Typography
 * [Google Fonts](https://fonts.google.com/ "La bibliothèque de polices de caractères de Google.")
 * [Noto fonts (home)](https://fonts.google.com/noto "Une famille de polices si particulière qu'elle possède sa propre page dédiée sur Google Fonts. Elle a nescessité des années de recherche, d'éminents typographes ont participé au projet.")
-* [FontSquirrel](https://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne." )
+* [FontSquirrel](https://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne.")
 
 ## Colors
 * [Adobe Color](https://color.adobe.com/ "Code couleur html.")
