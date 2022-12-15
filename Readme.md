@@ -1,5 +1,8 @@
 # Resources for web development
 
+## Bash
+* [Bash: L'antisèche Ultime](https://blog.julien-maury.dev/antiseches/bash-scripting/ "Julien Maury")
+
 ## JavaScript, learning
 * [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
@@ -92,6 +95,7 @@
 * [OpenStreetMap](https://www.openstreetmap.org)
 * [Mapbox](https://www.mapbox.com/)
 * [Google Maps API](https://developers.google.com/maps/)
+* [HERE WeGo](https://wego.here.com "Alternative professionnelle à Google Maps, à l'origine filiale de Nokia, rachetée par des constructeurs automobile allemands")
 
 ## Graphs
 * [Comparison of JavaScript charting frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_frameworks "Comparaison des bibliothèques pour graphiques 2D")
