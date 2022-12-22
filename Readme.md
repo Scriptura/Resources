@@ -57,6 +57,7 @@
 ## ARIA
 * [W3C, ARIA guide pratique](https://www.w3.org/WAI/ARIA/apg/ "")
 * [W3C, ARIA patterns](https://www.w3.org/WAI/ARIA/apg/patterns/ "")
+* [Adrian Roselli](https://adrianroselli.com/ "Expert en accessibilité")
 
 ## Typography
 * [Google Fonts](https://fonts.google.com/ "La bibliothèque de polices de caractères de Google.")
