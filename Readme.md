@@ -77,6 +77,8 @@
 * [Pexel](https://www.pexels.com/ "Banque d'images.")
 * [Subtlepatterns](https://www.toptal.com/designers/subtlepatterns/ "Images pour background.")
 * [InterfaceLIFT](https://interfacelift.com/wallpaper_beta/downloads/date/any/ "Banque d'images. En pause depuis 2019.")
+* [Adobe Express](https://www.adobe.com/express/feature/image/convert/svg "convertisseur IMG to SVG")
+* [picsvg](https://picsvg.com/fr/ "convertisseur IMG to SVG")
 
 ## Icons
 * [Icomoon](https://icomoon.io/ "Générateur de fonts et d'icônes en SVG")
