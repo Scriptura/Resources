@@ -95,7 +95,7 @@
 
 ## Maps
 * [Leaflet](https://leafletjs.com/ "Librairie JavaScript côté client")
-* [OpenLayers]("Librairie JavaScript côté client, plus bas niveau et complète que Leaflet")
+* [OpenLayers](https://openlayers.org/ "Librairie JavaScript côté client, plus bas niveau et complète que Leaflet")
 * [OpenStreetMap](https://www.openstreetmap.org)
 * [Mapbox](https://www.mapbox.com/)
 * [Google Maps API](https://developers.google.com/maps/)
