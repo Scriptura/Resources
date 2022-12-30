@@ -94,7 +94,8 @@
 * [Luxon](https://moment.github.io/luxon "Une api de date moderne pour JavaScript")
 
 ## Maps
-* [Leaflet](https://leafletjs.com/)
+* [Leaflet](https://leafletjs.com/ "Librairie JavaScript côté client")
+* [OpenLayers]("Librairie JavaScript côté client, plus bas niveau et complète que Leaflet")
 * [OpenStreetMap](https://www.openstreetmap.org)
 * [Mapbox](https://www.mapbox.com/)
 * [Google Maps API](https://developers.google.com/maps/)
