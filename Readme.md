@@ -89,6 +89,7 @@
 
 ## Favicons
 * [Real Favicon Generator](http://realfavicongenerator.net/ "Générateur de favicons pour de nombreux médias")
+* [Maskable.app](https://maskable.app/ "Optimisation des masques pour Android")
 
 ## Dates
 * [Luxon](https://moment.github.io/luxon "Une api de date moderne pour JavaScript")
