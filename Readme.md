@@ -54,9 +54,10 @@
 * [Stylus](https://stylus-lang.com/ "LE préprocesseur CSS que nous affectionnons.")
 * [Stylus cheatsheet](https://devhints.io/stylus "Feuille de pompe officielle !")
 
-## ARIA
-* [W3C, ARIA guide pratique](https://www.w3.org/WAI/ARIA/apg/ "")
-* [W3C, ARIA patterns](https://www.w3.org/WAI/ARIA/apg/patterns/ "")
+## Accessibility
+* [W3C, ARIA guide pratique](https://www.w3.org/WAI/ARIA/apg/)
+* [W3C, ARIA patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
+* [scottohara.me]([https://www.w3.org/WAI/ARIA/apg/](https://www.scottohara.me/))
 * [Adrian Roselli](https://adrianroselli.com/ "Expert en accessibilité")
 
 ## Typography
