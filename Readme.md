@@ -64,7 +64,7 @@
 * [Google Fonts](https://fonts.google.com/ "La bibliothèque de polices de caractères de Google.")
 * [FontSquirrel](https://www.fontsquirrel.com/ "Fonts de qualité professionnelles, kits @font-face prêt à l'emploi et convertisseur de fonts en ligne.")
 * [Noto fonts (home)](https://fonts.google.com/noto "Un projet Google Fonts ambitieux. Cette famille de polices a nescessité des années de recherche, d'éminents typographes ont participé au projet.")
-* [Noto fonts (home)](https://monaspace.githubnext.com/ "Un projet GitHub d'avant garde pour une famille monospace dédiée au code.")
+* [monaspace (home)](https://monaspace.githubnext.com/ "Un projet GitHub d'avant garde pour une famille monospace dédiée au code.")
 
 ## Colors
 * [Adobe Color](https://color.adobe.com/ "Code couleur html.")
