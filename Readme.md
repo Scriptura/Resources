@@ -141,6 +141,9 @@
 * [Gerard Ferrandez](http://codepen.io/ge1doot/ "Codes bluffants pour du javascript front")
 * [24 Ways](https://24ways.org/ "Initiative de développeurs regroupant d'excellentes ressources en son temps, mais arrêté en 2019")
 
+## General theme blogs
+* [Go Make Things](https://gomakethings.com/ "orientation princimalement JavaScript (vanilla)")
+
 ## Concepts and trends
 * [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
 * [Design Google](https://design.google.com/ "Site d'une équipe de designer de Google présentant les tendances du groupe")
