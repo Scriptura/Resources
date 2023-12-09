@@ -1,8 +1,5 @@
 # Resources for web development
 
-## Bash
-* [Bash: L'antisèche Ultime](https://blog.julien-maury.dev/antiseches/bash-scripting/ "Julien Maury")
-
 ## JavaScript, learning
 * [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
