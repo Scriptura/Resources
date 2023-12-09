@@ -17,10 +17,6 @@
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 * [HackerNoon](https://hackernoon.com)
 
-## React
-* [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/ "Tutoriel React : aperçu et procédure pas à pas")
-* [Babel plugin transform React Pug](https://www.npmjs.com/package/babel-plugin-transform-react-pug "Utilisez Pug pour écrire des composants React.")
-
 ## Conception
 * [Html5 Boilerplate](https://html5boilerplate.com/)
 * [Primer](https://primer.style/ "Le framework de GitHub")
