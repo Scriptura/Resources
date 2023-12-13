@@ -157,4 +157,5 @@
 * [Telegra.ph](https://telegra.ph)
 * [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist "Checklist de contrôle du développeur")
 * [Adresse Email Temporaire](https://www.adresseemailtemporaire.com/)
+* [Alsacreations (GitHub) : guidelines](https://github.com/alsacreations/guidelines)
 
