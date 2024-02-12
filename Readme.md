@@ -107,12 +107,12 @@
 * [Chartist](http://gionkunz.github.io/chartist-js/ "Lib pour des graphiques simples en SVG")
 * [Chart.js](http://www.chartjs.org/ "Lib pour des graphiques via html5 canevas")
 
-### Regex
+## Regex
 * [Regular Expressions 101](https://regex101.com/ "Outil en ligne pour tester les expressions régulières")
 * [RegExr](http://www.regexr.com/ "Outil en ligne pour tester les expressions régulières")
 * [Regulex](http://jex.im/regulex/ "outil en ligne pour tester les expressions régulières en javascript")
 
-### Base64
+## Base64
 * [Mobilefish](http://www.mobilefish.com/services/base64/base64.php "Convertiseur d'images en base64")
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
 * [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
