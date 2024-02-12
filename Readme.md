@@ -117,8 +117,12 @@
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
 * [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
 
+## Markdown
+* [StackEdit](https://stackedit.io/ "Éditeur Markdown dans le navigateur (online")
+* [stackedit.js](https://benweet.github.io/stackedit.js/ "Plugin js pour ajouter StackEdit à n'importe quel site Web")
+
 ## Mathematical formulas
-* [Mathjax](http://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
+* [Mathjax](https://www.mathjax.org/ "Solution pour affichage des formules mathématiques")
 
 ## Development and monitoring Tools
 * [GitHub Copilot](https://github.com/github/copilot-docs)
