@@ -15,7 +15,7 @@
 ## Algorithms
 * [Javascript algorithms (GitHub)](https://github.com/trekhleb/javascript-algorithms)
 * [TheAlgorithms: Javascript (GitHub)](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
-* [bigocheatsheet.com](https://www.bigocheatsheet.com/ "complexités spatiales et temporelles Big-O")
+* [Algorithm performance](https://www.bigocheatsheet.com/ "complexités spatiales et temporelles Big-O")
 
 ## Fastify
 * [backend.cafe](https://backend.cafe/ "Blog introduisant à Fastify")
