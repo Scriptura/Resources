@@ -7,15 +7,15 @@
 * [Eloquent javascript](https://eloquentjavascript.net/)
 * [You don't know js (GitHub)](https://github.com/getify/You-Dont-Know-JS)
 * [30 days of javascript (GitHub)](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-* [Javascript algorithms (GitHub)](https://github.com/trekhleb/javascript-algorithms)
-* [TheAlgorithms: Javascript (GitHub)](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
 * [javascript for loop alternatives 1](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-1/)
 * [javascript for loop alternatives 2](https://www.thecodingwalrus.com/js/javascript-for-loop-alternatives-2/)
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 * [HackerNoon](https://hackernoon.com)
 
 ## Algorithms
-* [bigocheatsheet.com](https://www.bigocheatsheet.com/"complexités spatiales et temporelles Big-O")
+* [Javascript algorithms (GitHub)](https://github.com/trekhleb/javascript-algorithms)
+* [TheAlgorithms: Javascript (GitHub)](https://github.com/TheAlgorithms/Javascript "Tous les algorithmes implémentés en JavaScript (à des fins éducatives uniquement)")
+* [bigocheatsheet.com](https://www.bigocheatsheet.com/ "complexités spatiales et temporelles Big-O")
 
 ## Fastify
 * [backend.cafe](https://backend.cafe/ "Blog introduisant à Fastify")
