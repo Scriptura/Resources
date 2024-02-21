@@ -14,6 +14,9 @@
 * [Node School](https://nodeschool.io/ "Les ateliers Open source qui enseignent des compétences de logiciel Web.")
 * [HackerNoon](https://hackernoon.com)
 
+## Algorithms
+* [bigocheatsheet.com](https://www.bigocheatsheet.com/"complexités spatiales et temporelles Big-O")
+
 ## Fastify
 * [backend.cafe](https://backend.cafe/ "Blog introduisant à Fastify")
 * [Industrial Empathy](https://www.industrialempathy.com/posts/designing-very-large-javascript-applications/ "Un article d'un concepteur logiciel éminent, ne traite pas directement de Fastify, mais expose certains enjeux que le framework tente de résoudre")
