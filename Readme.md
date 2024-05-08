@@ -26,6 +26,11 @@
 * [Primer](https://primer.style/ "Le framework de GitHub")
 * [Bootstrap](https://getbootstrap.com/)
 
+## Web API
+* [Transitions simples et fluides avec l'API View Transitions](https://developer.chrome.com/docs/web-platform/view-transitions?hl=fr)
+* [Web Animations API](Web Animations API)
+
+
 ## HTML
 * [Mozilla developer, balises HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
 * [WHATWG: HTML Standard](https://html.spec.whatwg.org/multipage/)
