@@ -158,7 +158,7 @@
 * [24 Ways](https://24ways.org/ "Initiative de développeurs regroupant d'excellentes ressources en son temps, mais arrêté en 2019")
 
 ## General theme blogs
-* [Go Make Things](https://gomakethings.com/ "orientation princimalement JavaScript (vanilla)")
+* [Go Make Things](https://gomakethings.com/ "orientation principalement JavaScript (vanilla)")
 
 ## Concepts and trends
 * [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
@@ -174,4 +174,5 @@
 * [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist "Checklist de contrôle du développeur")
 * [Adresse Email Temporaire](https://www.adresseemailtemporaire.com/)
 * [Alsacreations (GitHub) : guidelines](https://github.com/alsacreations/guidelines)
+* [Julien Pradet](https://www.julienpradet.fr/)
 
