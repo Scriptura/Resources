@@ -28,7 +28,7 @@
 
 ## Web API
 * [Transitions simples et fluides avec l'API View Transitions](https://developer.chrome.com/docs/web-platform/view-transitions?hl=fr)
-* [Web Animations API](Web Animations API)
+* [Web Animations API](https://developer.mozilla.org/fr/docs/Web/API/Web_Animations_API)
 
 
 ## HTML
