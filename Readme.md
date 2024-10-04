@@ -125,6 +125,9 @@
 * [Greywyvern](http://www.greywyvern.com/code/php/binary2base64 "Convertiseur d'images en base64")
 * [Motobit](http://www.motobit.com/util/base64-decoder-encoder.asp "Convertiseur d'images en base64")
 
+## ASCII
+* [Image to ASCII Art](https://www.asciiart.eu/image-to-ascii "Générateur en ligne permettant de convertir des images en art ASCII")
+
 ## Markdown
 * [StackEdit](https://stackedit.io/ "Éditeur Markdown dans le navigateur (online")
 * [stackedit.js](https://benweet.github.io/stackedit.js/ "Plugin js pour ajouter StackEdit à n'importe quel site Web")
