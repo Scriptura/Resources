@@ -73,7 +73,7 @@
 * [monaspace (home)](https://monaspace.githubnext.com/ "Un projet GitHub d'avant garde pour une famille monospace dédiée au code.")
 
 ## Colors
-* [oklch (palette)](https://oklch.com/ "palette de couleurs pour oklch()")
+* [OKLCH Color Picker & Converter](https://oklch.com/ "palette de couleurs pour oklch()")
 * [Adobe Color](https://color.adobe.com/ "Code couleur html.")
 * [Paletton](https://paletton.com/ "Code couleur html.")
 * [Material UI](https://www.materialui.co/ "Choix de couleurs dans une perspective material design, accompagné d'une proposition d'icônes.")
