@@ -1,5 +1,8 @@
 # Resources for web development
 
+## F#/.NET
+* [[Romain Deneau](https://dev.to/rdeneau)](https://dev.to/rdeneau/f-computation-expressions-4ge6 "F# Computation Expressions")
+
 ## JavaScript, learning
 * [javascript.info](https://javascript.info/ "Cours JavaScript")
 * [freecodecamp](https://www.freecodecamp.org/ "Formation en ligne")
