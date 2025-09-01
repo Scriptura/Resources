@@ -2,8 +2,8 @@
 
 ## F#/.NET
 * [Microsoft F#](https://dotnet.microsoft.com/fr-fr/languages/fsharp)
-* [Romain Deneau sur dev.to](https://dev.to/rdeneau)
 * [Formation F# de Romain Deneau sur GitHub](https://github.com/rdeneau/formation-fsharp/blob/main/fr/masterclass-fsharp-10-oo.pdf)
+* [Romain Deneau sur dev.to](https://dev.to/rdeneau)
 
 ## JavaScript, learning
 * [javascript.info](https://javascript.info/ "Cours JavaScript")
